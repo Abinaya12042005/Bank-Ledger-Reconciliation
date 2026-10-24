@@ -1,0 +1,3002 @@
+Customer_ID,Branch_ID,City,Age_Group,Customer_Type,Account_Type
+200001,1102,Kolhapur,Adult,Business,Savings
+200002,1435,Mumbai,Adult,Business,Savings
+200003,1860,Pune,Young Adult,Employee,Salary
+200004,1270,Mumbai,Senior,Unknown,Salary
+200005,1106,Nashik,Young Adult,Business,Savings
+200006,1071,Nashik,Adult,Unknown,Savings
+200007,1700,Nashik,Adult,Business,Savings
+200008,1020,Solapur,Unknown,Business,Salary
+200009,1614,Solapur,Adult,Individual,Savings
+200010,1121,Kolhapur,Young Adult,Employee,Savings
+200011,1466,Nashik,Young Adult,Business,Salary
+200012,1214,Pune,Adult,Individual,Salary
+200013,1330,Mumbai,Adult,Individual,Savings
+200014,1458,Nagpur,Senior,Employee,Savings
+200015,1087,Pune,Adult,Individual,Savings
+200016,1372,Solapur,Young Adult,Unknown,Savings
+200017,1099,Solapur,Senior,Business,Current
+200018,1871,Pune,Adult,Employee,Current
+200019,1663,Solapur,Adult,Individual,Current
+200020,1130,Nashik,Adult,Business,Savings
+200021,1661,Kolhapur,Unknown,Business,Savings
+200022,1308,Mumbai,Adult,Unknown,Savings
+200023,1769,Kolhapur,Senior,Employee,Savings
+200024,1343,Mumbai,Senior,Employee,Salary
+200025,1491,Mumbai,Young Adult,Employee,Savings
+200026,1413,Kolhapur,Unknown,Unknown,Savings
+200027,1805,Pune,Adult,Business,Savings
+200028,1385,Mumbai,Young Adult,Business,Savings
+200029,1191,Kolhapur,Senior,Individual,Savings
+200030,1955,Mumbai,Senior,Business,Salary
+200031,1276,Nagpur,Senior,Business,Savings
+200032,1160,Pune,Adult,Employee,Salary
+200033,1459,Nashik,Adult,Employee,Savings
+200034,1313,Mumbai,Senior,Individual,Savings
+200035,1021,Nagpur,Adult,Individual,Salary
+200036,1252,Nashik,Adult,Individual,Savings
+200037,1747,Nashik,Young Adult,Individual,Current
+200038,1856,Mumbai,Adult,Employee,Savings
+200039,1560,Kolhapur,Senior,Individual,Current
+200040,1474,Mumbai,Adult,Individual,Salary
+200041,1058,Nagpur,Unknown,Unknown,Salary
+200042,1510,Nashik,Adult,Business,Salary
+200043,1681,Mumbai,Senior,Business,Current
+200044,1475,Kolhapur,Adult,Employee,Savings
+200045,1699,Mumbai,Adult,Business,Current
+200046,1975,Pune,Adult,Individual,Salary
+200047,1782,Kolhapur,Adult,Business,Savings
+200048,1189,Nagpur,Adult,Individual,Savings
+200049,1957,Nashik,Unknown,Business,Salary
+200050,1686,Mumbai,Senior,Employee,Savings
+200051,1957,Kolhapur,Adult,Business,Savings
+200052,1562,Pune,Young Adult,Employee,Salary
+200053,1875,Kolhapur,Adult,Employee,Savings
+200054,1566,Solapur,Adult,Individual,Savings
+200055,1243,Pune,Senior,Business,Current
+200056,1831,Nagpur,Senior,Unknown,Savings
+200057,1504,Nashik,Young Adult,Business,Salary
+200058,1130,Nagpur,Adult,Individual,Savings
+200059,1484,Mumbai,Adult,Employee,Savings
+200060,1818,Kolhapur,Senior,Unknown,Savings
+200061,1646,Solapur,Adult,Employee,Salary
+200062,1020,Pune,Senior,Business,Savings
+200063,1840,Pune,Senior,Unknown,Savings
+200064,1166,Kolhapur,Young Adult,Business,Savings
+200065,1273,Solapur,Senior,Employee,Savings
+200066,1387,Kolhapur,Adult,Employee,Savings
+200067,1600,Mumbai,Senior,Employee,Savings
+200068,1315,Nagpur,Adult,Business,Current
+200069,1013,Pune,Adult,Individual,Savings
+200070,1241,Mumbai,Senior,Individual,Salary
+200071,1776,Nagpur,Senior,Employee,Current
+200072,1345,Mumbai,Senior,Individual,Savings
+200073,1564,Solapur,Adult,Business,Savings
+200074,1897,Pune,Senior,Business,Salary
+200075,1339,Kolhapur,Adult,Employee,Salary
+200076,1091,Kolhapur,Senior,Employee,Savings
+200077,1366,Nagpur,Adult,Unknown,Salary
+200078,1955,Nashik,Unknown,Individual,Savings
+200079,1454,Solapur,Senior,Business,Savings
+200080,1427,Nagpur,Senior,Unknown,Savings
+200081,1508,Nashik,Adult,Employee,Salary
+200082,1775,Mumbai,Adult,Employee,Current
+200083,1942,Solapur,Senior,Unknown,Salary
+200084,1034,Mumbai,Adult,Individual,Savings
+200085,1205,Pune,Senior,Employee,Savings
+200086,1080,Solapur,Adult,Employee,Savings
+200087,1931,Nashik,Adult,Individual,Salary
+200088,1561,Pune,Senior,Business,Savings
+200089,1871,Kolhapur,Senior,Unknown,Savings
+200090,1387,Nashik,Adult,Business,Savings
+200091,1001,Nagpur,Adult,Individual,Salary
+200092,1389,Kolhapur,Adult,Individual,Savings
+200093,1565,Kolhapur,Senior,Business,Savings
+200094,1105,Nagpur,Adult,Individual,Savings
+200095,1771,Solapur,Senior,Business,Salary
+200096,1821,Kolhapur,Senior,Employee,Salary
+200097,1476,Nashik,Adult,Business,Salary
+200098,1702,Pune,Senior,Business,Savings
+200099,1401,Kolhapur,Adult,Employee,Savings
+200100,1729,Nashik,Adult,Individual,Salary
+200101,1555,Mumbai,Unknown,Employee,Savings
+200102,1161,Nashik,Young Adult,Employee,Savings
+200103,1201,Pune,Adult,Business,Savings
+200104,1957,Nashik,Adult,Business,Salary
+200105,1995,Nagpur,Adult,Business,Savings
+200106,1269,Pune,Adult,Unknown,Current
+200107,1862,Solapur,Senior,Individual,Salary
+200108,1815,Mumbai,Senior,Individual,Savings
+200109,1270,Nagpur,Senior,Employee,Savings
+200110,1455,Solapur,Young Adult,Business,Salary
+200111,1461,Nashik,Adult,Employee,Salary
+200112,1726,Pune,Adult,Business,Salary
+200113,1251,Mumbai,Adult,Employee,Current
+200114,1701,Nagpur,Adult,Unknown,Savings
+200115,1295,Solapur,Adult,Unknown,Salary
+200116,1724,Solapur,Adult,Individual,Savings
+200117,1719,Mumbai,Adult,Employee,Salary
+200118,1748,Nashik,Senior,Business,Salary
+200119,1337,Mumbai,Senior,Individual,Current
+200120,1878,Solapur,Senior,Employee,Salary
+200121,1052,Kolhapur,Senior,Business,Salary
+200122,1791,Nagpur,Senior,Individual,Savings
+200123,1921,Mumbai,Adult,Business,Current
+200124,1216,Solapur,Young Adult,Business,Savings
+200125,1763,Nashik,Senior,Individual,Current
+200126,1187,Solapur,Senior,Employee,Savings
+200127,1379,Nashik,Senior,Individual,Savings
+200128,1492,Mumbai,Senior,Business,Salary
+200129,1040,Nashik,Adult,Individual,Salary
+200130,1156,Pune,Senior,Unknown,Savings
+200131,1014,Pune,Senior,Employee,Current
+200132,1812,Pune,Adult,Individual,Current
+200133,1064,Kolhapur,Senior,Employee,Salary
+200134,1856,Mumbai,Adult,Employee,Savings
+200135,1838,Solapur,Senior,Employee,Current
+200136,1520,Solapur,Senior,Employee,Salary
+200137,1343,Kolhapur,Young Adult,Employee,Savings
+200138,1128,Nashik,Senior,Individual,Salary
+200139,1647,Kolhapur,Adult,Individual,Salary
+200140,1471,Nashik,Senior,Business,Salary
+200141,1062,Nashik,Adult,Employee,Savings
+200142,1138,Nagpur,Senior,Employee,Savings
+200143,1498,Solapur,Adult,Business,Salary
+200144,1592,Pune,Senior,Employee,Savings
+200145,1391,Nashik,Adult,Business,Current
+200146,1674,Nagpur,Senior,Employee,Savings
+200147,1418,Solapur,Senior,Individual,Savings
+200148,1288,Pune,Unknown,Unknown,Savings
+200149,1378,Nashik,Senior,Employee,Current
+200150,1772,Nashik,Senior,Business,Savings
+200151,1489,Kolhapur,Adult,Individual,Current
+200152,1230,Kolhapur,Adult,Business,Current
+200153,1040,Solapur,Adult,Business,Current
+200154,1027,Pune,Senior,Individual,Current
+200155,1134,Nashik,Senior,Business,Savings
+200156,1200,Solapur,Adult,Employee,Savings
+200157,1839,Solapur,Senior,Business,Savings
+200158,1779,Mumbai,Senior,Employee,Current
+200159,1929,Kolhapur,Senior,Business,Current
+200160,1032,Pune,Adult,Individual,Savings
+200161,1047,Nashik,Young Adult,Individual,Savings
+200162,1502,Solapur,Adult,Business,Salary
+200163,1406,Nashik,Senior,Business,Savings
+200164,1573,Mumbai,Adult,Individual,Salary
+200165,1727,Pune,Adult,Employee,Savings
+200166,1804,Solapur,Senior,Employee,Salary
+200167,1098,Nashik,Senior,Employee,Savings
+200168,1683,Kolhapur,Senior,Individual,Savings
+200169,1871,Mumbai,Adult,Business,Savings
+200170,1725,Pune,Adult,Individual,Savings
+200171,1986,Mumbai,Senior,Business,Savings
+200172,1546,Kolhapur,Adult,Business,Savings
+200173,1960,Pune,Young Adult,Employee,Current
+200174,1738,Mumbai,Adult,Individual,Savings
+200175,1612,Nagpur,Adult,Individual,Salary
+200176,1942,Kolhapur,Adult,Employee,Savings
+200177,1461,Kolhapur,Adult,Business,Salary
+200178,1642,Kolhapur,Adult,Employee,Current
+200179,1768,Nagpur,Young Adult,Business,Savings
+200180,1004,Nagpur,Senior,Employee,Savings
+200181,1217,Nashik,Adult,Employee,Savings
+200182,1502,Solapur,Senior,Individual,Savings
+200183,1766,Mumbai,Adult,Individual,Current
+200184,1397,Nashik,Adult,Individual,Current
+200185,1870,Mumbai,Senior,Employee,Salary
+200186,1794,Solapur,Adult,Business,Current
+200187,1392,Nagpur,Adult,Business,Salary
+200188,1206,Solapur,Adult,Individual,Salary
+200189,1014,Nagpur,Senior,Individual,Salary
+200190,1857,Solapur,Adult,Individual,Savings
+200191,1553,Nashik,Adult,Employee,Savings
+200192,1891,Pune,Senior,Employee,Savings
+200193,1460,Nashik,Adult,Employee,Current
+200194,1690,Mumbai,Adult,Individual,Savings
+200195,1574,Nashik,Adult,Individual,Savings
+200196,1863,Kolhapur,Senior,Individual,Savings
+200197,1742,Mumbai,Adult,Individual,Savings
+200198,1240,Solapur,Adult,Business,Salary
+200199,1563,Mumbai,Adult,Individual,Savings
+200200,1095,Pune,Senior,Employee,Current
+200201,1899,Nagpur,Young Adult,Business,Salary
+200202,1733,Solapur,Unknown,Unknown,Savings
+200203,1484,Mumbai,Adult,Unknown,Current
+200204,1406,Solapur,Unknown,Business,Salary
+200205,1230,Solapur,Senior,Individual,Savings
+200206,1748,Solapur,Adult,Employee,Savings
+200207,1654,Nagpur,Adult,Business,Savings
+200208,1170,Nashik,Adult,Individual,Current
+200209,1540,Solapur,Adult,Employee,Current
+200210,1035,Kolhapur,Senior,Business,Savings
+200211,1524,Pune,Adult,Employee,Savings
+200212,1159,Nagpur,Adult,Individual,Savings
+200213,1838,Mumbai,Adult,Individual,Salary
+200214,1698,Nagpur,Senior,Employee,Savings
+200215,1242,Mumbai,Adult,Individual,Salary
+200216,1085,Nagpur,Young Adult,Business,Savings
+200217,1795,Mumbai,Young Adult,Business,Salary
+200218,1577,Solapur,Senior,Individual,Current
+200219,1681,Nashik,Senior,Unknown,Current
+200220,1556,Mumbai,Adult,Employee,Savings
+200221,1573,Mumbai,Adult,Individual,Salary
+200222,1952,Kolhapur,Adult,Business,Savings
+200223,1645,Mumbai,Young Adult,Business,Savings
+200224,1795,Kolhapur,Senior,Business,Current
+200225,1027,Pune,Senior,Business,Salary
+200226,1619,Solapur,Adult,Business,Current
+200227,1555,Kolhapur,Senior,Unknown,Savings
+200228,1339,Nashik,Adult,Employee,Current
+200229,1797,Solapur,Senior,Business,Current
+200230,1957,Kolhapur,Senior,Unknown,Salary
+200231,1330,Solapur,Adult,Business,Salary
+200232,1639,Solapur,Senior,Individual,Current
+200233,1505,Solapur,Adult,Employee,Savings
+200234,1347,Pune,Adult,Employee,Salary
+200235,1472,Nashik,Young Adult,Individual,Current
+200236,1230,Nagpur,Adult,Unknown,Salary
+200237,1189,Nagpur,Senior,Individual,Savings
+200238,1224,Kolhapur,Senior,Individual,Savings
+200239,1384,Solapur,Senior,Unknown,Savings
+200240,1376,Kolhapur,Senior,Employee,Current
+200241,1282,Pune,Senior,Individual,Salary
+200242,1957,Pune,Adult,Business,Savings
+200243,1632,Mumbai,Adult,Business,Salary
+200244,1627,Pune,Young Adult,Individual,Current
+200245,1972,Mumbai,Senior,Unknown,Salary
+200246,1744,Nashik,Senior,Employee,Savings
+200247,1258,Kolhapur,Adult,Employee,Salary
+200248,1358,Nashik,Senior,Employee,Savings
+200249,1709,Pune,Senior,Business,Salary
+200250,1455,Nashik,Adult,Individual,Savings
+200251,1410,Nashik,Adult,Individual,Savings
+200252,1648,Nashik,Adult,Employee,Salary
+200253,1317,Pune,Young Adult,Business,Savings
+200254,1676,Solapur,Adult,Individual,Savings
+200255,1224,Nashik,Young Adult,Business,Current
+200256,1818,Mumbai,Adult,Business,Current
+200257,1233,Pune,Young Adult,Individual,Current
+200258,1683,Nashik,Senior,Individual,Savings
+200259,1663,Solapur,Adult,Employee,Savings
+200260,1974,Pune,Senior,Employee,Savings
+200261,1826,Nagpur,Adult,Individual,Savings
+200262,1373,Solapur,Adult,Employee,Salary
+200263,1671,Mumbai,Senior,Employee,Savings
+200264,1607,Nashik,Young Adult,Business,Savings
+200265,1471,Nagpur,Adult,Individual,Savings
+200266,1232,Nagpur,Senior,Employee,Savings
+200267,1691,Pune,Young Adult,Business,Current
+200268,1112,Nagpur,Young Adult,Unknown,Current
+200269,1829,Mumbai,Adult,Business,Savings
+200270,1496,Mumbai,Young Adult,Employee,Savings
+200271,1441,Kolhapur,Adult,Employee,Savings
+200272,1563,Mumbai,Adult,Employee,Salary
+200273,1267,Solapur,Senior,Individual,Current
+200274,1509,Nagpur,Senior,Individual,Savings
+200275,1806,Mumbai,Senior,Business,Savings
+200276,1385,Pune,Senior,Individual,Salary
+200277,1386,Kolhapur,Senior,Individual,Salary
+200278,1112,Nagpur,Adult,Unknown,Salary
+200279,1612,Kolhapur,Senior,Individual,Savings
+200280,1624,Nagpur,Senior,Individual,Savings
+200281,1951,Pune,Senior,Individual,Savings
+200282,1080,Kolhapur,Adult,Employee,Salary
+200283,1698,Nashik,Adult,Business,Salary
+200284,1112,Solapur,Adult,Employee,Savings
+200285,1001,Solapur,Senior,Employee,Savings
+200286,1641,Nagpur,Young Adult,Business,Savings
+200287,1219,Nashik,Senior,Business,Savings
+200288,1565,Kolhapur,Adult,Unknown,Savings
+200289,1854,Nashik,Adult,Business,Current
+200290,1996,Nashik,Young Adult,Employee,Savings
+200291,1735,Kolhapur,Young Adult,Individual,Savings
+200292,1224,Pune,Adult,Individual,Current
+200293,1384,Nashik,Adult,Individual,Savings
+200294,1402,Nashik,Unknown,Business,Savings
+200295,1637,Pune,Adult,Business,Savings
+200296,1129,Nashik,Adult,Employee,Salary
+200297,1052,Nashik,Senior,Individual,Salary
+200298,1683,Nashik,Senior,Employee,Savings
+200299,1729,Solapur,Senior,Unknown,Current
+200300,1671,Mumbai,Young Adult,Business,Savings
+200301,1709,Pune,Senior,Business,Current
+200302,1415,Nashik,Senior,Business,Salary
+200303,1246,Solapur,Adult,Unknown,Salary
+200304,1835,Pune,Young Adult,Business,Savings
+200305,1438,Nagpur,Adult,Business,Salary
+200306,1202,Nagpur,Adult,Individual,Salary
+200307,1183,Nashik,Senior,Individual,Salary
+200308,1122,Solapur,Adult,Employee,Current
+200309,1400,Solapur,Senior,Individual,Savings
+200310,1766,Pune,Adult,Unknown,Savings
+200311,1293,Pune,Adult,Individual,Savings
+200312,1279,Solapur,Adult,Business,Savings
+200313,1836,Pune,Adult,Employee,Salary
+200314,1883,Solapur,Senior,Employee,Current
+200315,1609,Mumbai,Senior,Unknown,Salary
+200316,1197,Solapur,Adult,Employee,Savings
+200317,1981,Nagpur,Adult,Employee,Savings
+200318,1906,Pune,Young Adult,Individual,Salary
+200319,1510,Solapur,Senior,Business,Savings
+200320,1751,Solapur,Young Adult,Individual,Savings
+200321,1143,Pune,Adult,Employee,Salary
+200322,1608,Mumbai,Senior,Business,Salary
+200323,1200,Mumbai,Senior,Business,Savings
+200324,1123,Pune,Adult,Business,Salary
+200325,1186,Kolhapur,Adult,Employee,Current
+200326,1325,Pune,Senior,Employee,Salary
+200327,1463,Pune,Senior,Business,Salary
+200328,1348,Mumbai,Adult,Employee,Savings
+200329,1770,Mumbai,Senior,Employee,Current
+200330,1659,Pune,Senior,Employee,Savings
+200331,1763,Pune,Adult,Business,Savings
+200332,1954,Pune,Adult,Employee,Salary
+200333,1931,Mumbai,Adult,Employee,Current
+200334,1402,Pune,Senior,Business,Salary
+200335,1345,Pune,Young Adult,Business,Salary
+200336,1962,Nashik,Senior,Individual,Salary
+200337,1510,Kolhapur,Senior,Employee,Salary
+200338,1146,Nagpur,Adult,Business,Savings
+200339,1147,Kolhapur,Senior,Unknown,Savings
+200340,1863,Nashik,Senior,Business,Savings
+200341,1710,Nagpur,Young Adult,Employee,Savings
+200342,1819,Pune,Adult,Individual,Savings
+200343,1488,Nashik,Adult,Business,Current
+200344,1928,Pune,Senior,Business,Current
+200345,1935,Mumbai,Unknown,Individual,Salary
+200346,1639,Solapur,Adult,Individual,Salary
+200347,1550,Nashik,Senior,Business,Current
+200348,1337,Mumbai,Adult,Employee,Savings
+200349,1871,Nashik,Adult,Employee,Savings
+200350,1640,Nashik,Adult,Individual,Savings
+200351,1778,Mumbai,Adult,Individual,Salary
+200352,1987,Nagpur,Adult,Employee,Savings
+200353,1952,Kolhapur,Adult,Business,Salary
+200354,1472,Pune,Young Adult,Employee,Current
+200355,1945,Nashik,Senior,Employee,Savings
+200356,1150,Pune,Adult,Individual,Savings
+200357,1414,Solapur,Adult,Employee,Savings
+200358,1989,Mumbai,Adult,Individual,Savings
+200359,1297,Pune,Senior,Employee,Salary
+200360,1610,Mumbai,Young Adult,Business,Salary
+200361,1262,Pune,Adult,Individual,Current
+200362,1763,Kolhapur,Unknown,Individual,Salary
+200363,1143,Kolhapur,Adult,Individual,Current
+200364,1345,Kolhapur,Adult,Employee,Salary
+200365,1623,Kolhapur,Senior,Business,Savings
+200366,1571,Kolhapur,Young Adult,Individual,Salary
+200367,1880,Kolhapur,Adult,Unknown,Savings
+200368,1001,Mumbai,Adult,Individual,Savings
+200369,1896,Nashik,Adult,Business,Savings
+200370,1303,Pune,Adult,Employee,Current
+200371,1253,Kolhapur,Young Adult,Business,Savings
+200372,1651,Mumbai,Adult,Employee,Savings
+200373,1452,Mumbai,Young Adult,Employee,Salary
+200374,1036,Mumbai,Senior,Business,Salary
+200375,1159,Nashik,Adult,Business,Salary
+200376,1008,Pune,Adult,Employee,Salary
+200377,1232,Nashik,Senior,Individual,Salary
+200378,1098,Nagpur,Senior,Individual,Current
+200379,1658,Mumbai,Young Adult,Business,Savings
+200380,1815,Nagpur,Senior,Employee,Salary
+200381,1207,Solapur,Adult,Employee,Salary
+200382,1130,Kolhapur,Young Adult,Business,Savings
+200383,1403,Kolhapur,Senior,Business,Savings
+200384,1151,Nashik,Adult,Business,Savings
+200385,1053,Pune,Adult,Business,Salary
+200386,1119,Nagpur,Adult,Business,Savings
+200387,1672,Pune,Adult,Employee,Salary
+200388,1919,Nashik,Adult,Individual,Salary
+200389,1627,Kolhapur,Senior,Business,Current
+200390,1586,Pune,Adult,Employee,Current
+200391,1624,Pune,Senior,Unknown,Savings
+200392,1967,Kolhapur,Adult,Individual,Savings
+200393,1419,Nagpur,Senior,Individual,Savings
+200394,1421,Kolhapur,Senior,Unknown,Salary
+200395,1103,Pune,Senior,Business,Savings
+200396,1851,Nagpur,Adult,Employee,Savings
+200397,1253,Nagpur,Adult,Business,Savings
+200398,1226,Kolhapur,Adult,Business,Salary
+200399,1111,Pune,Senior,Employee,Savings
+200400,1509,Nashik,Senior,Individual,Salary
+200401,1472,Pune,Adult,Business,Savings
+200402,1098,Mumbai,Adult,Business,Current
+200403,1152,Solapur,Adult,Individual,Savings
+200404,1860,Nashik,Senior,Business,Current
+200405,1913,Nagpur,Adult,Business,Current
+200406,1895,Nashik,Senior,Employee,Savings
+200407,1877,Nagpur,Unknown,Business,Current
+200408,1337,Nagpur,Adult,Employee,Current
+200409,1705,Nashik,Adult,Individual,Current
+200410,1821,Nagpur,Adult,Business,Salary
+200411,1162,Nagpur,Adult,Business,Savings
+200412,1719,Mumbai,Adult,Business,Current
+200413,1956,Pune,Young Adult,Employee,Salary
+200414,1680,Pune,Senior,Individual,Salary
+200415,1995,Solapur,Adult,Individual,Salary
+200416,1160,Solapur,Adult,Employee,Savings
+200417,1579,Mumbai,Senior,Individual,Salary
+200418,1800,Solapur,Senior,Employee,Current
+200419,1397,Nashik,Adult,Employee,Savings
+200420,1276,Kolhapur,Adult,Business,Salary
+200421,1815,Kolhapur,Adult,Employee,Current
+200422,1915,Kolhapur,Senior,Business,Savings
+200423,1503,Mumbai,Senior,Employee,Savings
+200424,1895,Mumbai,Senior,Individual,Salary
+200425,1391,Nagpur,Adult,Individual,Savings
+200426,1134,Kolhapur,Senior,Individual,Savings
+200427,1194,Nashik,Young Adult,Unknown,Savings
+200428,1400,Solapur,Adult,Individual,Savings
+200429,1639,Nashik,Adult,Business,Salary
+200430,1032,Solapur,Young Adult,Unknown,Savings
+200431,1687,Kolhapur,Adult,Business,Current
+200432,1459,Kolhapur,Senior,Individual,Salary
+200433,1954,Kolhapur,Senior,Unknown,Current
+200434,1882,Mumbai,Adult,Individual,Savings
+200435,1469,Solapur,Adult,Employee,Salary
+200436,1374,Mumbai,Adult,Unknown,Savings
+200437,1021,Mumbai,Adult,Business,Savings
+200438,1749,Pune,Young Adult,Employee,Salary
+200439,1669,Nashik,Senior,Individual,Salary
+200440,1037,Nashik,Adult,Employee,Salary
+200441,1229,Nagpur,Adult,Employee,Salary
+200442,1364,Mumbai,Young Adult,Employee,Salary
+200443,1562,Solapur,Senior,Unknown,Salary
+200444,1437,Pune,Senior,Unknown,Salary
+200445,1775,Pune,Senior,Business,Savings
+200446,1282,Nashik,Senior,Employee,Savings
+200447,1026,Mumbai,Adult,Business,Salary
+200448,1225,Nagpur,Adult,Unknown,Current
+200449,1276,Mumbai,Senior,Business,Savings
+200450,1797,Kolhapur,Adult,Employee,Savings
+200451,1608,Mumbai,Adult,Individual,Savings
+200452,1283,Kolhapur,Young Adult,Individual,Current
+200453,1878,Kolhapur,Young Adult,Employee,Salary
+200454,1959,Nagpur,Adult,Business,Salary
+200455,1480,Solapur,Adult,Business,Salary
+200456,1452,Nashik,Senior,Individual,Salary
+200457,1828,Mumbai,Adult,Individual,Savings
+200458,1815,Kolhapur,Adult,Employee,Savings
+200459,1658,Mumbai,Adult,Employee,Savings
+200460,1515,Solapur,Young Adult,Individual,Current
+200461,1546,Nashik,Adult,Business,Savings
+200462,1191,Solapur,Adult,Employee,Current
+200463,1048,Nashik,Adult,Business,Current
+200464,1511,Pune,Adult,Employee,Savings
+200465,1016,Nashik,Adult,Employee,Salary
+200466,1171,Nagpur,Young Adult,Employee,Current
+200467,1219,Solapur,Young Adult,Business,Savings
+200468,1157,Kolhapur,Adult,Individual,Savings
+200469,1476,Pune,Young Adult,Business,Current
+200470,1045,Nagpur,Senior,Employee,Savings
+200471,1372,Mumbai,Adult,Business,Savings
+200472,1517,Solapur,Adult,Business,Current
+200473,1098,Kolhapur,Adult,Employee,Salary
+200474,1891,Nashik,Senior,Business,Savings
+200475,1744,Kolhapur,Senior,Individual,Salary
+200476,1036,Mumbai,Senior,Unknown,Salary
+200477,1279,Pune,Senior,Employee,Savings
+200478,1348,Pune,Adult,Employee,Salary
+200479,1496,Solapur,Senior,Business,Savings
+200480,1301,Pune,Adult,Business,Savings
+200481,1180,Solapur,Adult,Individual,Current
+200482,1606,Solapur,Adult,Business,Salary
+200483,1098,Solapur,Adult,Employee,Savings
+200484,1699,Nashik,Senior,Employee,Salary
+200485,1992,Nagpur,Adult,Business,Salary
+200486,1115,Solapur,Senior,Employee,Salary
+200487,1190,Solapur,Adult,Employee,Savings
+200488,1252,Nagpur,Adult,Business,Salary
+200489,1980,Kolhapur,Adult,Individual,Savings
+200490,1927,Solapur,Adult,Business,Savings
+200491,1982,Nashik,Senior,Individual,Salary
+200492,1160,Pune,Adult,Individual,Salary
+200493,1255,Pune,Adult,Individual,Current
+200494,1322,Mumbai,Senior,Business,Savings
+200495,1127,Mumbai,Adult,Business,Savings
+200496,1017,Pune,Unknown,Individual,Current
+200497,1792,Pune,Adult,Individual,Savings
+200498,1734,Nashik,Adult,Unknown,Current
+200499,1565,Nagpur,Adult,Individual,Savings
+200500,1569,Mumbai,Adult,Unknown,Salary
+200501,1322,Nagpur,Young Adult,Individual,Current
+200502,1871,Nashik,Senior,Business,Salary
+200503,1685,Pune,Senior,Employee,Salary
+200504,1791,Solapur,Senior,Business,Current
+200505,1625,Nagpur,Adult,Business,Savings
+200506,1287,Pune,Adult,Employee,Savings
+200507,1942,Pune,Young Adult,Individual,Salary
+200508,1853,Kolhapur,Young Adult,Business,Savings
+200509,1662,Nagpur,Senior,Business,Current
+200510,1961,Solapur,Adult,Individual,Savings
+200511,1638,Nagpur,Young Adult,Individual,Savings
+200512,1154,Pune,Young Adult,Business,Current
+200513,1489,Solapur,Unknown,Individual,Salary
+200514,1385,Nashik,Young Adult,Business,Current
+200515,1985,Kolhapur,Adult,Employee,Salary
+200516,1784,Pune,Adult,Business,Salary
+200517,1103,Mumbai,Young Adult,Unknown,Savings
+200518,1928,Mumbai,Adult,Unknown,Savings
+200519,1392,Kolhapur,Adult,Individual,Salary
+200520,1810,Nashik,Senior,Business,Salary
+200521,1245,Pune,Adult,Individual,Current
+200522,1175,Nagpur,Senior,Business,Salary
+200523,1038,Kolhapur,Unknown,Employee,Savings
+200524,1476,Nashik,Senior,Individual,Savings
+200525,1681,Nagpur,Adult,Unknown,Current
+200526,1758,Mumbai,Adult,Individual,Savings
+200527,1537,Mumbai,Senior,Business,Savings
+200528,1866,Nagpur,Senior,Business,Savings
+200529,1817,Kolhapur,Adult,Business,Savings
+200530,1920,Mumbai,Senior,Individual,Current
+200531,1407,Pune,Young Adult,Employee,Salary
+200532,1524,Solapur,Adult,Business,Salary
+200533,1827,Nagpur,Adult,Employee,Current
+200534,1505,Nagpur,Adult,Employee,Savings
+200535,1902,Mumbai,Young Adult,Individual,Current
+200536,1824,Kolhapur,Senior,Employee,Savings
+200537,1035,Pune,Adult,Unknown,Savings
+200538,1684,Kolhapur,Adult,Employee,Savings
+200539,1019,Nashik,Adult,Employee,Salary
+200540,1320,Nashik,Adult,Employee,Salary
+200541,1775,Solapur,Adult,Employee,Current
+200542,1511,Mumbai,Senior,Individual,Salary
+200543,1399,Mumbai,Senior,Individual,Savings
+200544,1653,Mumbai,Senior,Employee,Current
+200545,1971,Solapur,Senior,Business,Salary
+200546,1882,Nashik,Adult,Employee,Savings
+200547,1470,Kolhapur,Young Adult,Employee,Savings
+200548,1142,Solapur,Adult,Employee,Salary
+200549,1091,Solapur,Young Adult,Individual,Salary
+200550,1353,Kolhapur,Unknown,Unknown,Salary
+200551,1833,Mumbai,Adult,Employee,Salary
+200552,1799,Pune,Adult,Individual,Salary
+200553,1726,Kolhapur,Senior,Individual,Savings
+200554,1958,Nashik,Senior,Unknown,Savings
+200555,1853,Nagpur,Senior,Individual,Savings
+200556,1050,Nagpur,Young Adult,Business,Savings
+200557,1664,Solapur,Young Adult,Individual,Current
+200558,1697,Nagpur,Adult,Unknown,Current
+200559,1574,Pune,Adult,Business,Current
+200560,1189,Mumbai,Young Adult,Employee,Savings
+200561,1124,Nashik,Adult,Individual,Salary
+200562,1149,Pune,Senior,Individual,Savings
+200563,1313,Nashik,Adult,Employee,Savings
+200564,1569,Nashik,Senior,Employee,Salary
+200565,1341,Mumbai,Senior,Individual,Salary
+200566,1304,Solapur,Adult,Individual,Savings
+200567,1691,Nagpur,Senior,Business,Savings
+200568,1681,Mumbai,Adult,Employee,Current
+200569,1837,Pune,Adult,Individual,Savings
+200570,1782,Solapur,Senior,Individual,Savings
+200571,1053,Pune,Young Adult,Unknown,Current
+200572,1443,Solapur,Unknown,Employee,Savings
+200573,1612,Pune,Adult,Business,Savings
+200574,1992,Mumbai,Adult,Employee,Savings
+200575,1263,Solapur,Adult,Individual,Salary
+200576,1052,Solapur,Adult,Employee,Salary
+200577,1571,Nashik,Young Adult,Employee,Savings
+200578,1619,Nashik,Senior,Business,Savings
+200579,1004,Kolhapur,Senior,Business,Savings
+200580,1102,Pune,Senior,Individual,Savings
+200581,1195,Nashik,Adult,Unknown,Current
+200582,1773,Kolhapur,Senior,Employee,Current
+200583,1876,Nashik,Senior,Unknown,Savings
+200584,1991,Pune,Senior,Unknown,Savings
+200585,1883,Solapur,Adult,Individual,Savings
+200586,1349,Nagpur,Senior,Employee,Savings
+200587,1046,Pune,Senior,Employee,Savings
+200588,1866,Mumbai,Adult,Business,Current
+200589,1822,Nashik,Senior,Employee,Current
+200590,1935,Nashik,Adult,Unknown,Current
+200591,1819,Solapur,Adult,Business,Savings
+200592,1655,Mumbai,Young Adult,Individual,Current
+200593,1268,Solapur,Adult,Individual,Savings
+200594,1369,Mumbai,Adult,Business,Savings
+200595,1635,Nagpur,Senior,Individual,Current
+200596,1105,Nashik,Adult,Business,Savings
+200597,1669,Nashik,Senior,Employee,Current
+200598,1658,Nagpur,Senior,Employee,Salary
+200599,1656,Kolhapur,Adult,Individual,Salary
+200600,1119,Solapur,Senior,Business,Salary
+200601,1830,Nagpur,Unknown,Individual,Savings
+200602,1786,Solapur,Senior,Business,Salary
+200603,1603,Pune,Senior,Employee,Current
+200604,1057,Nashik,Unknown,Business,Current
+200605,1950,Solapur,Senior,Employee,Savings
+200606,1345,Mumbai,Adult,Individual,Salary
+200607,1740,Solapur,Senior,Business,Savings
+200608,1473,Pune,Senior,Individual,Salary
+200609,1116,Nashik,Adult,Employee,Savings
+200610,1829,Nagpur,Adult,Individual,Current
+200611,1790,Pune,Senior,Business,Savings
+200612,1126,Nashik,Young Adult,Unknown,Savings
+200613,1392,Solapur,Senior,Employee,Savings
+200614,1907,Kolhapur,Adult,Employee,Savings
+200615,1640,Kolhapur,Adult,Business,Savings
+200616,1057,Mumbai,Adult,Individual,Savings
+200617,1633,Nashik,Young Adult,Unknown,Current
+200618,1512,Kolhapur,Senior,Individual,Salary
+200619,1750,Nagpur,Senior,Unknown,Current
+200620,1801,Nashik,Senior,Business,Savings
+200621,1095,Nagpur,Adult,Business,Savings
+200622,1637,Nagpur,Adult,Business,Savings
+200623,1117,Kolhapur,Senior,Employee,Salary
+200624,1559,Nashik,Senior,Employee,Salary
+200625,1600,Solapur,Adult,Individual,Savings
+200626,1487,Pune,Adult,Business,Savings
+200627,1236,Kolhapur,Adult,Business,Salary
+200628,1884,Kolhapur,Senior,Unknown,Salary
+200629,1896,Solapur,Senior,Employee,Salary
+200630,1271,Nashik,Adult,Individual,Salary
+200631,1188,Nashik,Adult,Employee,Savings
+200632,1998,Nagpur,Senior,Business,Savings
+200633,1703,Solapur,Young Adult,Individual,Savings
+200634,1446,Solapur,Adult,Individual,Savings
+200635,1580,Nashik,Adult,Business,Savings
+200636,1789,Nagpur,Adult,Employee,Current
+200637,1860,Kolhapur,Young Adult,Employee,Savings
+200638,1246,Mumbai,Senior,Employee,Savings
+200639,1962,Pune,Senior,Business,Savings
+200640,1075,Kolhapur,Senior,Individual,Savings
+200641,1153,Nashik,Senior,Business,Savings
+200642,1655,Pune,Adult,Individual,Salary
+200643,1434,Mumbai,Senior,Business,Salary
+200644,1996,Mumbai,Adult,Employee,Savings
+200645,1085,Nagpur,Senior,Employee,Current
+200646,1696,Pune,Unknown,Business,Savings
+200647,1284,Nagpur,Adult,Business,Current
+200648,1973,Kolhapur,Adult,Individual,Savings
+200649,1219,Solapur,Adult,Business,Savings
+200650,1068,Solapur,Adult,Individual,Salary
+200651,1046,Solapur,Young Adult,Unknown,Savings
+200652,1093,Pune,Senior,Business,Savings
+200653,1749,Solapur,Unknown,Employee,Savings
+200654,1957,Kolhapur,Adult,Business,Savings
+200655,1452,Nagpur,Young Adult,Employee,Savings
+200656,1203,Pune,Young Adult,Individual,Salary
+200657,1911,Nagpur,Senior,Unknown,Current
+200658,1217,Pune,Adult,Business,Current
+200659,1473,Nagpur,Adult,Employee,Savings
+200660,1431,Mumbai,Adult,Employee,Savings
+200661,1340,Nagpur,Adult,Employee,Savings
+200662,1550,Solapur,Adult,Unknown,Savings
+200663,1611,Mumbai,Senior,Individual,Current
+200664,1288,Nagpur,Adult,Employee,Savings
+200665,1253,Pune,Senior,Employee,Salary
+200666,1733,Pune,Adult,Employee,Savings
+200667,1356,Pune,Senior,Employee,Savings
+200668,1022,Nashik,Senior,Individual,Savings
+200669,1761,Kolhapur,Young Adult,Individual,Savings
+200670,1521,Pune,Adult,Individual,Savings
+200671,1757,Mumbai,Adult,Unknown,Savings
+200672,1836,Pune,Senior,Individual,Savings
+200673,1099,Nashik,Adult,Business,Current
+200674,1801,Solapur,Unknown,Business,Current
+200675,1179,Mumbai,Young Adult,Business,Savings
+200676,1222,Nashik,Senior,Unknown,Savings
+200677,1905,Solapur,Senior,Individual,Salary
+200678,1761,Mumbai,Senior,Individual,Salary
+200679,1658,Nagpur,Adult,Employee,Current
+200680,1441,Kolhapur,Adult,Individual,Savings
+200681,1607,Kolhapur,Senior,Business,Salary
+200682,1768,Nashik,Adult,Business,Current
+200683,1324,Solapur,Adult,Business,Savings
+200684,1515,Kolhapur,Adult,Individual,Salary
+200685,1015,Solapur,Adult,Unknown,Savings
+200686,1791,Solapur,Adult,Individual,Salary
+200687,1335,Nashik,Adult,Employee,Salary
+200688,1758,Nashik,Adult,Employee,Current
+200689,1257,Nashik,Senior,Business,Salary
+200690,1496,Kolhapur,Senior,Employee,Savings
+200691,1987,Nashik,Senior,Unknown,Current
+200692,1895,Kolhapur,Unknown,Unknown,Salary
+200693,1159,Nashik,Adult,Business,Current
+200694,1474,Pune,Young Adult,Individual,Salary
+200695,1851,Solapur,Young Adult,Business,Salary
+200696,1663,Nashik,Adult,Business,Salary
+200697,1907,Mumbai,Senior,Individual,Salary
+200698,1689,Solapur,Adult,Individual,Current
+200699,1674,Solapur,Adult,Individual,Savings
+200700,1379,Nashik,Adult,Individual,Salary
+200701,1544,Nagpur,Adult,Employee,Savings
+200702,1928,Nashik,Senior,Unknown,Savings
+200703,1956,Solapur,Adult,Employee,Savings
+200704,1690,Mumbai,Unknown,Employee,Salary
+200705,1426,Solapur,Adult,Unknown,Salary
+200706,1612,Mumbai,Adult,Individual,Current
+200707,1267,Kolhapur,Senior,Business,Savings
+200708,1834,Pune,Young Adult,Employee,Current
+200709,1576,Solapur,Senior,Employee,Current
+200710,1416,Nashik,Unknown,Employee,Savings
+200711,1167,Kolhapur,Senior,Employee,Savings
+200712,1841,Pune,Senior,Individual,Savings
+200713,1042,Nashik,Adult,Business,Current
+200714,1555,Nagpur,Senior,Individual,Current
+200715,1284,Nashik,Adult,Unknown,Savings
+200716,1396,Mumbai,Senior,Employee,Salary
+200717,1011,Mumbai,Senior,Individual,Savings
+200718,1606,Nagpur,Unknown,Business,Savings
+200719,1301,Kolhapur,Senior,Individual,Savings
+200720,1897,Pune,Adult,Business,Savings
+200721,1252,Nashik,Unknown,Unknown,Savings
+200722,1498,Mumbai,Senior,Business,Savings
+200723,1753,Kolhapur,Senior,Individual,Current
+200724,1034,Nagpur,Senior,Business,Savings
+200725,1726,Solapur,Adult,Business,Salary
+200726,1848,Mumbai,Adult,Business,Current
+200727,1089,Nagpur,Adult,Individual,Savings
+200728,1775,Nashik,Senior,Employee,Salary
+200729,1604,Pune,Adult,Employee,Savings
+200730,1921,Mumbai,Adult,Individual,Salary
+200731,1969,Mumbai,Adult,Employee,Salary
+200732,1601,Nashik,Senior,Employee,Savings
+200733,1417,Solapur,Adult,Business,Salary
+200734,1114,Kolhapur,Young Adult,Unknown,Salary
+200735,1616,Pune,Adult,Business,Salary
+200736,1902,Mumbai,Young Adult,Employee,Current
+200737,1195,Pune,Adult,Individual,Savings
+200738,1825,Mumbai,Young Adult,Unknown,Salary
+200739,1500,Pune,Young Adult,Unknown,Savings
+200740,1625,Nagpur,Senior,Unknown,Savings
+200741,1492,Mumbai,Senior,Business,Savings
+200742,1074,Pune,Adult,Employee,Savings
+200743,1412,Kolhapur,Unknown,Business,Current
+200744,1375,Nagpur,Young Adult,Employee,Salary
+200745,1419,Nagpur,Senior,Employee,Salary
+200746,1728,Kolhapur,Senior,Business,Savings
+200747,1276,Pune,Adult,Individual,Salary
+200748,1760,Nashik,Adult,Individual,Salary
+200749,1675,Kolhapur,Adult,Employee,Savings
+200750,1393,Pune,Adult,Employee,Savings
+200751,1868,Kolhapur,Senior,Unknown,Salary
+200752,1456,Kolhapur,Adult,Individual,Current
+200753,1919,Mumbai,Adult,Individual,Salary
+200754,1191,Pune,Adult,Individual,Salary
+200755,1738,Nashik,Adult,Individual,Savings
+200756,1688,Mumbai,Adult,Individual,Savings
+200757,1098,Kolhapur,Young Adult,Business,Current
+200758,1547,Solapur,Senior,Employee,Savings
+200759,1977,Kolhapur,Adult,Business,Current
+200760,1998,Kolhapur,Adult,Unknown,Salary
+200761,1095,Pune,Senior,Business,Current
+200762,1663,Pune,Young Adult,Individual,Salary
+200763,1662,Mumbai,Senior,Individual,Savings
+200764,1189,Nashik,Senior,Unknown,Salary
+200765,1735,Mumbai,Adult,Employee,Current
+200766,1036,Nagpur,Young Adult,Business,Salary
+200767,1779,Kolhapur,Adult,Business,Salary
+200768,1368,Solapur,Young Adult,Unknown,Savings
+200769,1694,Kolhapur,Young Adult,Unknown,Salary
+200770,1524,Kolhapur,Adult,Employee,Current
+200771,1278,Mumbai,Adult,Employee,Savings
+200772,1216,Solapur,Adult,Unknown,Current
+200773,1866,Solapur,Senior,Employee,Salary
+200774,1872,Solapur,Adult,Individual,Current
+200775,1797,Mumbai,Adult,Business,Savings
+200776,1272,Kolhapur,Adult,Employee,Salary
+200777,1880,Mumbai,Senior,Unknown,Salary
+200778,1061,Pune,Adult,Business,Current
+200779,1595,Pune,Senior,Employee,Savings
+200780,1879,Mumbai,Adult,Unknown,Savings
+200781,1728,Solapur,Senior,Business,Salary
+200782,1341,Kolhapur,Adult,Business,Salary
+200783,1396,Mumbai,Adult,Individual,Savings
+200784,1698,Mumbai,Adult,Employee,Savings
+200785,1018,Mumbai,Adult,Business,Savings
+200786,1176,Nagpur,Adult,Individual,Salary
+200787,1611,Pune,Adult,Individual,Savings
+200788,1395,Solapur,Senior,Business,Savings
+200789,1444,Nashik,Senior,Employee,Savings
+200790,1232,Solapur,Adult,Employee,Current
+200791,1914,Nashik,Adult,Individual,Savings
+200792,1075,Nagpur,Adult,Employee,Savings
+200793,1264,Mumbai,Senior,Business,Salary
+200794,1454,Nagpur,Adult,Individual,Savings
+200795,1795,Nagpur,Unknown,Individual,Savings
+200796,1717,Kolhapur,Adult,Business,Salary
+200797,1734,Pune,Adult,Unknown,Savings
+200798,1383,Nashik,Senior,Business,Current
+200799,1563,Mumbai,Senior,Individual,Savings
+200800,1850,Nashik,Adult,Employee,Salary
+200801,1505,Solapur,Adult,Business,Savings
+200802,1366,Nashik,Unknown,Individual,Salary
+200803,1143,Solapur,Young Adult,Business,Savings
+200804,1884,Pune,Senior,Employee,Savings
+200805,1068,Solapur,Adult,Individual,Salary
+200806,1098,Nashik,Senior,Business,Salary
+200807,1395,Nashik,Senior,Business,Savings
+200808,1024,Solapur,Adult,Business,Salary
+200809,1947,Nagpur,Senior,Individual,Savings
+200810,1890,Pune,Young Adult,Individual,Current
+200811,1468,Kolhapur,Adult,Employee,Savings
+200812,1483,Mumbai,Adult,Employee,Current
+200813,1564,Nashik,Adult,Individual,Savings
+200814,1150,Mumbai,Senior,Individual,Savings
+200815,1143,Kolhapur,Young Adult,Individual,Savings
+200816,1568,Mumbai,Young Adult,Unknown,Savings
+200817,1038,Kolhapur,Adult,Business,Salary
+200818,1108,Solapur,Adult,Unknown,Salary
+200819,1692,Nagpur,Adult,Individual,Salary
+200820,1041,Nashik,Senior,Unknown,Savings
+200821,1185,Kolhapur,Senior,Individual,Savings
+200822,1934,Mumbai,Senior,Employee,Salary
+200823,1397,Nashik,Adult,Business,Salary
+200824,1222,Nagpur,Adult,Employee,Savings
+200825,1633,Solapur,Adult,Employee,Salary
+200826,1132,Nashik,Adult,Individual,Salary
+200827,1162,Kolhapur,Adult,Individual,Salary
+200828,1214,Nagpur,Young Adult,Business,Savings
+200829,1732,Mumbai,Adult,Business,Savings
+200830,1234,Nagpur,Senior,Business,Savings
+200831,1842,Nagpur,Adult,Employee,Current
+200832,1657,Pune,Adult,Business,Savings
+200833,1750,Nagpur,Young Adult,Individual,Savings
+200834,1587,Nagpur,Adult,Individual,Salary
+200835,1008,Nashik,Senior,Unknown,Savings
+200836,1073,Mumbai,Adult,Individual,Savings
+200837,1953,Nashik,Adult,Business,Current
+200838,1491,Nashik,Young Adult,Individual,Current
+200839,1912,Kolhapur,Adult,Business,Salary
+200840,1252,Nashik,Young Adult,Business,Savings
+200841,1229,Pune,Senior,Individual,Salary
+200842,1518,Pune,Senior,Individual,Current
+200843,1173,Kolhapur,Senior,Business,Savings
+200844,1652,Solapur,Adult,Employee,Salary
+200845,1167,Mumbai,Senior,Individual,Savings
+200846,1169,Mumbai,Adult,Business,Savings
+200847,1392,Nashik,Adult,Individual,Savings
+200848,1945,Nashik,Senior,Business,Savings
+200849,1794,Solapur,Young Adult,Employee,Savings
+200850,1633,Nashik,Adult,Individual,Salary
+200851,1193,Mumbai,Senior,Business,Savings
+200852,1516,Nagpur,Adult,Employee,Salary
+200853,1028,Pune,Adult,Individual,Current
+200854,1164,Nagpur,Adult,Employee,Savings
+200855,1421,Nagpur,Senior,Individual,Savings
+200856,1338,Mumbai,Senior,Individual,Current
+200857,1647,Nagpur,Senior,Individual,Current
+200858,1495,Solapur,Adult,Employee,Savings
+200859,1364,Kolhapur,Adult,Individual,Savings
+200860,1832,Nashik,Adult,Business,Salary
+200861,1341,Kolhapur,Young Adult,Business,Savings
+200862,1499,Pune,Young Adult,Employee,Salary
+200863,1656,Nashik,Adult,Business,Current
+200864,1510,Nagpur,Adult,Business,Savings
+200865,1326,Pune,Unknown,Employee,Savings
+200866,1216,Nashik,Adult,Business,Savings
+200867,1300,Solapur,Adult,Individual,Salary
+200868,1131,Solapur,Young Adult,Unknown,Savings
+200869,1803,Solapur,Senior,Individual,Savings
+200870,1069,Solapur,Senior,Employee,Current
+200871,1251,Nagpur,Senior,Business,Savings
+200872,1414,Kolhapur,Senior,Individual,Savings
+200873,1786,Nashik,Adult,Individual,Salary
+200874,1444,Nagpur,Adult,Employee,Savings
+200875,1875,Solapur,Adult,Employee,Salary
+200876,1181,Kolhapur,Adult,Business,Salary
+200877,1166,Pune,Adult,Business,Savings
+200878,1090,Pune,Adult,Individual,Savings
+200879,1713,Pune,Senior,Individual,Savings
+200880,1857,Solapur,Unknown,Business,Current
+200881,1530,Pune,Senior,Employee,Savings
+200882,1038,Mumbai,Senior,Business,Salary
+200883,1125,Nashik,Senior,Individual,Current
+200884,1450,Nashik,Adult,Employee,Savings
+200885,1172,Solapur,Young Adult,Employee,Current
+200886,1652,Mumbai,Senior,Employee,Savings
+200887,1753,Nagpur,Senior,Employee,Salary
+200888,1219,Nagpur,Young Adult,Employee,Current
+200889,1637,Pune,Senior,Employee,Savings
+200890,1057,Kolhapur,Young Adult,Individual,Savings
+200891,1659,Nagpur,Adult,Individual,Salary
+200892,1475,Kolhapur,Senior,Employee,Current
+200893,1455,Nashik,Adult,Employee,Salary
+200894,1828,Kolhapur,Young Adult,Employee,Savings
+200895,1894,Nashik,Adult,Employee,Savings
+200896,1360,Mumbai,Senior,Business,Savings
+200897,1934,Mumbai,Adult,Business,Current
+200898,1000,Solapur,Senior,Individual,Savings
+200899,1386,Solapur,Adult,Individual,Savings
+200900,1972,Pune,Young Adult,Individual,Current
+200901,1347,Nagpur,Unknown,Business,Current
+200902,1189,Pune,Young Adult,Employee,Savings
+200903,1504,Nashik,Unknown,Individual,Savings
+200904,1190,Pune,Adult,Business,Salary
+200905,1507,Kolhapur,Unknown,Individual,Savings
+200906,1368,Nashik,Young Adult,Employee,Savings
+200907,1408,Solapur,Adult,Employee,Savings
+200908,1823,Mumbai,Adult,Business,Salary
+200909,1928,Solapur,Young Adult,Individual,Salary
+200910,1933,Nagpur,Senior,Unknown,Savings
+200911,1116,Nashik,Adult,Business,Savings
+200912,1133,Nashik,Adult,Individual,Salary
+200913,1057,Kolhapur,Young Adult,Individual,Salary
+200914,1555,Nagpur,Adult,Employee,Current
+200915,1684,Mumbai,Senior,Business,Salary
+200916,1671,Nashik,Adult,Business,Current
+200917,1172,Nashik,Senior,Employee,Salary
+200918,1828,Kolhapur,Senior,Business,Savings
+200919,1814,Pune,Senior,Individual,Savings
+200920,1148,Mumbai,Adult,Individual,Savings
+200921,1079,Solapur,Senior,Unknown,Salary
+200922,1885,Nagpur,Unknown,Business,Salary
+200923,1212,Nashik,Senior,Employee,Current
+200924,1202,Nashik,Adult,Business,Savings
+200925,1763,Solapur,Senior,Unknown,Savings
+200926,1228,Mumbai,Senior,Business,Savings
+200927,1675,Pune,Senior,Business,Savings
+200928,1226,Nashik,Young Adult,Business,Current
+200929,1658,Mumbai,Adult,Individual,Salary
+200930,1531,Solapur,Senior,Business,Savings
+200931,1440,Kolhapur,Adult,Individual,Savings
+200932,1401,Pune,Senior,Unknown,Current
+200933,1046,Nagpur,Adult,Employee,Savings
+200934,1232,Nashik,Adult,Business,Salary
+200935,1304,Mumbai,Young Adult,Employee,Savings
+200936,1525,Kolhapur,Adult,Individual,Savings
+200937,1142,Nagpur,Senior,Individual,Savings
+200938,1414,Mumbai,Senior,Unknown,Savings
+200939,1512,Mumbai,Senior,Unknown,Current
+200940,1372,Nagpur,Adult,Employee,Savings
+200941,1565,Kolhapur,Senior,Unknown,Savings
+200942,1885,Solapur,Senior,Business,Savings
+200943,1258,Kolhapur,Adult,Business,Savings
+200944,1655,Pune,Young Adult,Individual,Savings
+200945,1470,Nashik,Senior,Unknown,Current
+200946,1952,Nagpur,Senior,Employee,Current
+200947,1970,Solapur,Unknown,Business,Salary
+200948,1011,Nagpur,Young Adult,Business,Savings
+200949,1329,Nagpur,Senior,Business,Savings
+200950,1735,Kolhapur,Adult,Business,Savings
+200951,1783,Nashik,Adult,Individual,Savings
+200952,1967,Pune,Adult,Employee,Current
+200953,1357,Mumbai,Adult,Employee,Salary
+200954,1971,Mumbai,Adult,Individual,Current
+200955,1407,Nagpur,Adult,Employee,Savings
+200956,1667,Nashik,Senior,Business,Savings
+200957,1372,Solapur,Senior,Business,Salary
+200958,1007,Kolhapur,Adult,Individual,Savings
+200959,1121,Nashik,Senior,Employee,Savings
+200960,1347,Nashik,Adult,Individual,Salary
+200961,1675,Kolhapur,Adult,Individual,Salary
+200962,1089,Nagpur,Senior,Individual,Salary
+200963,1647,Nashik,Adult,Business,Savings
+200964,1697,Mumbai,Adult,Individual,Savings
+200965,1315,Kolhapur,Adult,Business,Savings
+200966,1177,Solapur,Young Adult,Individual,Current
+200967,1539,Pune,Senior,Business,Savings
+200968,1731,Nagpur,Adult,Business,Salary
+200969,1868,Kolhapur,Adult,Unknown,Salary
+200970,1040,Pune,Young Adult,Unknown,Current
+200971,1739,Pune,Senior,Unknown,Savings
+200972,1703,Solapur,Adult,Business,Savings
+200973,1922,Nashik,Senior,Business,Salary
+200974,1501,Solapur,Adult,Individual,Current
+200975,1958,Nashik,Adult,Individual,Salary
+200976,1144,Nashik,Adult,Individual,Savings
+200977,1200,Kolhapur,Adult,Business,Current
+200978,1928,Kolhapur,Adult,Employee,Salary
+200979,1723,Nagpur,Adult,Business,Savings
+200980,1460,Nashik,Senior,Unknown,Current
+200981,1731,Pune,Young Adult,Employee,Salary
+200982,1751,Mumbai,Senior,Employee,Savings
+200983,1924,Nagpur,Adult,Unknown,Savings
+200984,1908,Kolhapur,Adult,Individual,Current
+200985,1557,Solapur,Adult,Business,Savings
+200986,1546,Nagpur,Senior,Individual,Salary
+200987,1252,Nagpur,Adult,Business,Salary
+200988,1389,Nagpur,Young Adult,Individual,Salary
+200989,1593,Nagpur,Adult,Unknown,Current
+200990,1882,Mumbai,Young Adult,Employee,Savings
+200991,1255,Solapur,Adult,Individual,Savings
+200992,1708,Solapur,Adult,Individual,Salary
+200993,1814,Solapur,Young Adult,Employee,Savings
+200994,1920,Nashik,Young Adult,Unknown,Current
+200995,1449,Pune,Senior,Business,Salary
+200996,1009,Solapur,Adult,Employee,Savings
+200997,1823,Nagpur,Adult,Employee,Savings
+200998,1797,Nagpur,Adult,Employee,Current
+200999,1241,Solapur,Senior,Business,Salary
+201000,1250,Solapur,Adult,Business,Savings
+201001,1876,Nagpur,Adult,Employee,Salary
+201002,1004,Nashik,Adult,Business,Current
+201003,1118,Kolhapur,Adult,Business,Salary
+201004,1800,Kolhapur,Adult,Unknown,Savings
+201005,1373,Solapur,Senior,Unknown,Savings
+201006,1064,Mumbai,Senior,Business,Salary
+201007,1145,Solapur,Senior,Business,Salary
+201008,1223,Solapur,Adult,Individual,Savings
+201009,1238,Kolhapur,Adult,Business,Salary
+201010,1176,Nagpur,Adult,Employee,Salary
+201011,1778,Solapur,Adult,Individual,Savings
+201012,1852,Nagpur,Adult,Employee,Current
+201013,1281,Nagpur,Senior,Business,Salary
+201014,1062,Mumbai,Adult,Individual,Savings
+201015,1216,Nagpur,Adult,Employee,Savings
+201016,1853,Kolhapur,Adult,Employee,Salary
+201017,1826,Nashik,Adult,Individual,Savings
+201018,1794,Nashik,Young Adult,Individual,Savings
+201019,1688,Pune,Senior,Business,Salary
+201020,1460,Solapur,Adult,Business,Current
+201021,1928,Kolhapur,Senior,Individual,Salary
+201022,1609,Nagpur,Senior,Business,Salary
+201023,1104,Nashik,Senior,Business,Savings
+201024,1098,Kolhapur,Adult,Employee,Savings
+201025,1510,Nashik,Young Adult,Business,Savings
+201026,1384,Nagpur,Adult,Unknown,Savings
+201027,1404,Nashik,Senior,Employee,Current
+201028,1822,Solapur,Adult,Individual,Current
+201029,1517,Solapur,Senior,Unknown,Savings
+201030,1475,Pune,Adult,Business,Savings
+201031,1976,Pune,Adult,Individual,Savings
+201032,1708,Nashik,Adult,Employee,Current
+201033,1862,Kolhapur,Adult,Employee,Savings
+201034,1644,Solapur,Adult,Business,Savings
+201035,1869,Kolhapur,Senior,Employee,Current
+201036,1770,Kolhapur,Senior,Individual,Savings
+201037,1436,Nashik,Senior,Business,Savings
+201038,1022,Kolhapur,Senior,Employee,Salary
+201039,1996,Solapur,Senior,Individual,Savings
+201040,1564,Nagpur,Young Adult,Employee,Current
+201041,1676,Pune,Senior,Business,Savings
+201042,1713,Nagpur,Adult,Individual,Savings
+201043,1457,Kolhapur,Adult,Business,Savings
+201044,1082,Nagpur,Senior,Employee,Salary
+201045,1144,Solapur,Adult,Individual,Current
+201046,1084,Solapur,Young Adult,Employee,Salary
+201047,1077,Kolhapur,Adult,Employee,Current
+201048,1456,Nashik,Young Adult,Business,Current
+201049,1877,Nagpur,Senior,Individual,Savings
+201050,1000,Nashik,Young Adult,Business,Savings
+201051,1050,Nashik,Adult,Individual,Savings
+201052,1684,Mumbai,Adult,Unknown,Savings
+201053,1716,Kolhapur,Adult,Business,Savings
+201054,1771,Pune,Senior,Business,Savings
+201055,1445,Solapur,Young Adult,Individual,Savings
+201056,1448,Solapur,Adult,Employee,Savings
+201057,1880,Kolhapur,Senior,Individual,Savings
+201058,1487,Pune,Senior,Unknown,Current
+201059,1799,Solapur,Senior,Employee,Salary
+201060,1033,Kolhapur,Senior,Business,Savings
+201061,1347,Solapur,Young Adult,Business,Savings
+201062,1094,Nashik,Adult,Employee,Savings
+201063,1071,Nagpur,Adult,Business,Salary
+201064,1550,Nagpur,Senior,Business,Savings
+201065,1153,Solapur,Adult,Business,Current
+201066,1249,Mumbai,Adult,Employee,Savings
+201067,1673,Pune,Adult,Employee,Savings
+201068,1437,Pune,Young Adult,Individual,Savings
+201069,1117,Pune,Adult,Business,Savings
+201070,1770,Nashik,Unknown,Business,Salary
+201071,1890,Pune,Adult,Employee,Savings
+201072,1305,Nagpur,Senior,Unknown,Current
+201073,1267,Nashik,Senior,Individual,Current
+201074,1960,Kolhapur,Adult,Business,Current
+201075,1053,Pune,Adult,Unknown,Savings
+201076,1235,Pune,Adult,Unknown,Savings
+201077,1388,Kolhapur,Adult,Business,Savings
+201078,1989,Pune,Senior,Employee,Savings
+201079,1733,Kolhapur,Adult,Individual,Current
+201080,1762,Nashik,Young Adult,Business,Savings
+201081,1824,Nagpur,Adult,Employee,Current
+201082,1400,Kolhapur,Senior,Individual,Savings
+201083,1623,Mumbai,Senior,Business,Salary
+201084,1766,Kolhapur,Senior,Employee,Savings
+201085,1302,Pune,Senior,Unknown,Savings
+201086,1918,Nashik,Adult,Business,Salary
+201087,1206,Solapur,Senior,Business,Savings
+201088,1228,Nashik,Adult,Business,Salary
+201089,1852,Solapur,Senior,Unknown,Savings
+201090,1909,Kolhapur,Senior,Business,Savings
+201091,1577,Nagpur,Young Adult,Business,Current
+201092,1074,Mumbai,Senior,Individual,Salary
+201093,1434,Nashik,Senior,Unknown,Savings
+201094,1102,Pune,Adult,Business,Salary
+201095,1421,Solapur,Senior,Employee,Current
+201096,1703,Pune,Young Adult,Individual,Salary
+201097,1763,Nagpur,Adult,Business,Savings
+201098,1737,Solapur,Adult,Individual,Savings
+201099,1805,Nashik,Adult,Unknown,Salary
+201100,1305,Kolhapur,Senior,Unknown,Salary
+201101,1097,Pune,Senior,Individual,Savings
+201102,1849,Nagpur,Senior,Business,Savings
+201103,1797,Nashik,Adult,Individual,Savings
+201104,1334,Nashik,Senior,Business,Current
+201105,1858,Nashik,Young Adult,Employee,Savings
+201106,1434,Nashik,Senior,Business,Savings
+201107,1446,Solapur,Adult,Employee,Savings
+201108,1993,Nashik,Young Adult,Individual,Salary
+201109,1307,Pune,Senior,Employee,Savings
+201110,1248,Nagpur,Adult,Individual,Savings
+201111,1165,Solapur,Adult,Employee,Current
+201112,1480,Nashik,Adult,Individual,Current
+201113,1983,Mumbai,Young Adult,Employee,Savings
+201114,1334,Mumbai,Adult,Unknown,Savings
+201115,1541,Nagpur,Young Adult,Business,Current
+201116,1758,Kolhapur,Adult,Unknown,Salary
+201117,1105,Kolhapur,Young Adult,Unknown,Current
+201118,1562,Solapur,Senior,Individual,Salary
+201119,1080,Solapur,Adult,Individual,Salary
+201120,1132,Solapur,Senior,Employee,Salary
+201121,1796,Kolhapur,Senior,Unknown,Savings
+201122,1899,Mumbai,Adult,Unknown,Savings
+201123,1137,Kolhapur,Senior,Individual,Savings
+201124,1183,Pune,Senior,Employee,Savings
+201125,1400,Nashik,Unknown,Individual,Current
+201126,1329,Solapur,Adult,Business,Savings
+201127,1784,Mumbai,Young Adult,Business,Current
+201128,1507,Nagpur,Senior,Individual,Savings
+201129,1851,Nagpur,Senior,Employee,Savings
+201130,1983,Nashik,Senior,Business,Salary
+201131,1068,Mumbai,Adult,Business,Savings
+201132,1545,Kolhapur,Senior,Individual,Savings
+201133,1773,Kolhapur,Senior,Unknown,Savings
+201134,1052,Pune,Adult,Employee,Salary
+201135,1449,Pune,Young Adult,Business,Savings
+201136,1204,Kolhapur,Adult,Business,Current
+201137,1125,Nagpur,Senior,Individual,Savings
+201138,1746,Solapur,Senior,Individual,Current
+201139,1042,Nagpur,Senior,Business,Savings
+201140,1751,Pune,Adult,Individual,Salary
+201141,1970,Nashik,Adult,Business,Salary
+201142,1882,Kolhapur,Adult,Business,Salary
+201143,1110,Pune,Adult,Business,Salary
+201144,1760,Pune,Senior,Individual,Current
+201145,1662,Solapur,Unknown,Employee,Salary
+201146,1182,Kolhapur,Senior,Business,Savings
+201147,1847,Solapur,Senior,Individual,Current
+201148,1094,Kolhapur,Adult,Business,Savings
+201149,1970,Solapur,Adult,Business,Savings
+201150,1373,Nagpur,Senior,Employee,Savings
+201151,1911,Nashik,Senior,Business,Savings
+201152,1519,Nashik,Adult,Individual,Savings
+201153,1899,Kolhapur,Adult,Employee,Salary
+201154,1359,Mumbai,Adult,Unknown,Savings
+201155,1899,Pune,Senior,Unknown,Savings
+201156,1695,Pune,Adult,Employee,Salary
+201157,1280,Kolhapur,Adult,Unknown,Savings
+201158,1194,Solapur,Young Adult,Employee,Salary
+201159,1863,Mumbai,Adult,Individual,Current
+201160,1194,Nagpur,Senior,Individual,Salary
+201161,1666,Solapur,Adult,Unknown,Current
+201162,1092,Solapur,Senior,Individual,Savings
+201163,1671,Kolhapur,Senior,Employee,Savings
+201164,1945,Kolhapur,Senior,Employee,Savings
+201165,1060,Pune,Adult,Business,Salary
+201166,1633,Kolhapur,Unknown,Employee,Savings
+201167,1050,Kolhapur,Adult,Individual,Savings
+201168,1402,Kolhapur,Unknown,Individual,Savings
+201169,1788,Pune,Senior,Business,Salary
+201170,1004,Nagpur,Adult,Business,Savings
+201171,1465,Nagpur,Young Adult,Employee,Salary
+201172,1603,Kolhapur,Adult,Business,Savings
+201173,1681,Pune,Adult,Individual,Savings
+201174,1828,Nagpur,Adult,Unknown,Savings
+201175,1533,Solapur,Adult,Employee,Salary
+201176,1404,Nagpur,Adult,Individual,Salary
+201177,1837,Nagpur,Young Adult,Employee,Savings
+201178,1512,Pune,Adult,Business,Savings
+201179,1644,Solapur,Adult,Unknown,Salary
+201180,1232,Pune,Young Adult,Individual,Savings
+201181,1523,Kolhapur,Adult,Business,Savings
+201182,1345,Nashik,Adult,Individual,Savings
+201183,1045,Nagpur,Adult,Individual,Savings
+201184,1545,Nashik,Senior,Employee,Savings
+201185,1944,Pune,Adult,Business,Savings
+201186,1077,Pune,Adult,Business,Savings
+201187,1729,Pune,Adult,Employee,Salary
+201188,1812,Nashik,Senior,Individual,Savings
+201189,1922,Pune,Senior,Employee,Salary
+201190,1072,Kolhapur,Senior,Individual,Savings
+201191,1793,Pune,Senior,Individual,Current
+201192,1248,Mumbai,Adult,Employee,Savings
+201193,1046,Nashik,Adult,Employee,Salary
+201194,1120,Mumbai,Young Adult,Individual,Savings
+201195,1213,Pune,Senior,Employee,Salary
+201196,1238,Kolhapur,Senior,Individual,Savings
+201197,1055,Nagpur,Senior,Individual,Savings
+201198,1349,Solapur,Adult,Business,Salary
+201199,1106,Solapur,Senior,Individual,Current
+201200,1830,Pune,Adult,Business,Savings
+201201,1047,Kolhapur,Young Adult,Individual,Salary
+201202,1572,Nashik,Adult,Employee,Savings
+201203,1336,Mumbai,Adult,Individual,Savings
+201204,1025,Mumbai,Adult,Individual,Salary
+201205,1803,Mumbai,Senior,Employee,Savings
+201206,1256,Nashik,Young Adult,Unknown,Salary
+201207,1007,Solapur,Adult,Individual,Savings
+201208,1624,Kolhapur,Adult,Employee,Salary
+201209,1866,Nashik,Adult,Business,Current
+201210,1252,Mumbai,Senior,Employee,Salary
+201211,1691,Pune,Senior,Business,Current
+201212,1718,Nagpur,Senior,Individual,Savings
+201213,1302,Nashik,Senior,Unknown,Current
+201214,1638,Nashik,Senior,Employee,Savings
+201215,1055,Kolhapur,Adult,Employee,Salary
+201216,1725,Kolhapur,Senior,Business,Salary
+201217,1525,Nashik,Adult,Employee,Savings
+201218,1473,Mumbai,Adult,Employee,Salary
+201219,1027,Nagpur,Young Adult,Business,Savings
+201220,1982,Kolhapur,Senior,Employee,Savings
+201221,1077,Mumbai,Senior,Individual,Savings
+201222,1215,Pune,Adult,Business,Current
+201223,1385,Kolhapur,Senior,Individual,Savings
+201224,1364,Mumbai,Senior,Business,Salary
+201225,1665,Mumbai,Young Adult,Unknown,Savings
+201226,1525,Nagpur,Adult,Employee,Current
+201227,1698,Nagpur,Senior,Employee,Savings
+201228,1311,Pune,Adult,Individual,Salary
+201229,1882,Mumbai,Senior,Individual,Savings
+201230,1006,Solapur,Young Adult,Unknown,Current
+201231,1002,Mumbai,Adult,Individual,Savings
+201232,1622,Nagpur,Senior,Employee,Salary
+201233,1918,Solapur,Senior,Business,Savings
+201234,1749,Kolhapur,Senior,Unknown,Salary
+201235,1362,Kolhapur,Senior,Employee,Savings
+201236,1750,Nashik,Senior,Employee,Salary
+201237,1507,Nagpur,Senior,Business,Savings
+201238,1273,Nashik,Young Adult,Unknown,Savings
+201239,1505,Solapur,Adult,Business,Savings
+201240,1805,Nagpur,Young Adult,Employee,Savings
+201241,1738,Pune,Senior,Individual,Savings
+201242,1882,Mumbai,Adult,Individual,Salary
+201243,1014,Pune,Adult,Employee,Salary
+201244,1191,Solapur,Adult,Unknown,Salary
+201245,1984,Nagpur,Senior,Business,Savings
+201246,1630,Solapur,Senior,Unknown,Savings
+201247,1484,Mumbai,Adult,Employee,Current
+201248,1027,Kolhapur,Senior,Business,Savings
+201249,1713,Kolhapur,Adult,Business,Salary
+201250,1038,Solapur,Adult,Business,Savings
+201251,1952,Nashik,Senior,Employee,Salary
+201252,1272,Nagpur,Adult,Employee,Savings
+201253,1230,Nagpur,Senior,Business,Salary
+201254,1085,Kolhapur,Adult,Individual,Savings
+201255,1473,Pune,Young Adult,Unknown,Salary
+201256,1125,Mumbai,Senior,Individual,Savings
+201257,1811,Pune,Young Adult,Business,Current
+201258,1536,Pune,Unknown,Business,Salary
+201259,1144,Solapur,Senior,Business,Savings
+201260,1524,Kolhapur,Adult,Employee,Savings
+201261,1211,Kolhapur,Adult,Unknown,Savings
+201262,1024,Kolhapur,Adult,Business,Savings
+201263,1579,Solapur,Adult,Individual,Savings
+201264,1393,Nashik,Young Adult,Business,Savings
+201265,1066,Pune,Adult,Individual,Savings
+201266,1232,Solapur,Adult,Individual,Current
+201267,1108,Nagpur,Adult,Employee,Current
+201268,1145,Mumbai,Unknown,Business,Savings
+201269,1110,Nashik,Senior,Employee,Salary
+201270,1227,Nagpur,Senior,Business,Salary
+201271,1110,Pune,Adult,Employee,Current
+201272,1469,Kolhapur,Senior,Individual,Savings
+201273,1033,Pune,Adult,Unknown,Savings
+201274,1622,Solapur,Senior,Business,Salary
+201275,1775,Mumbai,Unknown,Unknown,Current
+201276,1935,Solapur,Adult,Individual,Savings
+201277,1368,Nashik,Senior,Individual,Current
+201278,1747,Nashik,Senior,Business,Savings
+201279,1594,Mumbai,Senior,Business,Savings
+201280,1553,Nagpur,Senior,Individual,Current
+201281,1424,Nagpur,Adult,Individual,Current
+201282,1612,Nashik,Adult,Business,Savings
+201283,1517,Nashik,Young Adult,Employee,Current
+201284,1691,Kolhapur,Senior,Business,Salary
+201285,1281,Nagpur,Young Adult,Employee,Current
+201286,1319,Mumbai,Senior,Employee,Current
+201287,1737,Nagpur,Young Adult,Unknown,Savings
+201288,1442,Kolhapur,Adult,Individual,Savings
+201289,1951,Solapur,Adult,Employee,Savings
+201290,1314,Nashik,Senior,Business,Current
+201291,1876,Nashik,Adult,Individual,Salary
+201292,1965,Kolhapur,Adult,Employee,Savings
+201293,1740,Mumbai,Adult,Business,Savings
+201294,1376,Nashik,Adult,Employee,Savings
+201295,1288,Pune,Young Adult,Employee,Savings
+201296,1436,Nashik,Senior,Employee,Salary
+201297,1661,Pune,Adult,Employee,Current
+201298,1276,Kolhapur,Young Adult,Business,Savings
+201299,1709,Kolhapur,Senior,Business,Salary
+201300,1581,Nashik,Unknown,Individual,Salary
+201301,1502,Nagpur,Senior,Business,Current
+201302,1623,Pune,Adult,Unknown,Savings
+201303,1515,Mumbai,Senior,Employee,Savings
+201304,1349,Nashik,Senior,Business,Savings
+201305,1842,Mumbai,Senior,Employee,Salary
+201306,1445,Nashik,Adult,Business,Current
+201307,1829,Nagpur,Adult,Unknown,Current
+201308,1349,Nagpur,Senior,Individual,Savings
+201309,1606,Nagpur,Adult,Employee,Savings
+201310,1663,Solapur,Adult,Employee,Savings
+201311,1822,Nagpur,Senior,Employee,Salary
+201312,1136,Kolhapur,Senior,Individual,Savings
+201313,1758,Kolhapur,Adult,Business,Savings
+201314,1898,Solapur,Senior,Individual,Salary
+201315,1242,Pune,Young Adult,Employee,Current
+201316,1542,Mumbai,Adult,Business,Salary
+201317,1039,Nashik,Senior,Individual,Savings
+201318,1228,Nashik,Adult,Unknown,Current
+201319,1547,Solapur,Adult,Business,Savings
+201320,1919,Kolhapur,Senior,Employee,Salary
+201321,1222,Nashik,Adult,Employee,Savings
+201322,1005,Kolhapur,Adult,Individual,Savings
+201323,1321,Pune,Unknown,Business,Salary
+201324,1467,Mumbai,Senior,Individual,Current
+201325,1731,Pune,Senior,Business,Current
+201326,1074,Solapur,Senior,Business,Savings
+201327,1003,Nagpur,Young Adult,Individual,Savings
+201328,1846,Nagpur,Senior,Business,Current
+201329,1645,Nagpur,Adult,Individual,Current
+201330,1117,Pune,Senior,Unknown,Salary
+201331,1880,Nashik,Adult,Individual,Salary
+201332,1605,Mumbai,Senior,Business,Savings
+201333,1503,Nagpur,Adult,Individual,Salary
+201334,1997,Solapur,Adult,Business,Savings
+201335,1946,Solapur,Senior,Employee,Savings
+201336,1573,Nagpur,Senior,Individual,Savings
+201337,1440,Nagpur,Senior,Employee,Savings
+201338,1193,Mumbai,Adult,Employee,Salary
+201339,1846,Nagpur,Adult,Business,Current
+201340,1714,Mumbai,Senior,Unknown,Current
+201341,1391,Solapur,Senior,Employee,Savings
+201342,1025,Nagpur,Senior,Individual,Savings
+201343,1434,Pune,Senior,Individual,Savings
+201344,1172,Pune,Senior,Employee,Current
+201345,1299,Solapur,Adult,Employee,Savings
+201346,1644,Mumbai,Senior,Employee,Salary
+201347,1325,Pune,Senior,Individual,Savings
+201348,1409,Mumbai,Senior,Employee,Savings
+201349,1117,Pune,Senior,Unknown,Current
+201350,1835,Pune,Senior,Individual,Salary
+201351,1786,Mumbai,Adult,Business,Savings
+201352,1723,Nashik,Adult,Business,Salary
+201353,1224,Pune,Adult,Business,Salary
+201354,1531,Nagpur,Unknown,Employee,Salary
+201355,1112,Solapur,Senior,Business,Salary
+201356,1139,Nashik,Adult,Business,Salary
+201357,1558,Mumbai,Senior,Individual,Savings
+201358,1000,Nashik,Adult,Employee,Salary
+201359,1089,Kolhapur,Adult,Individual,Savings
+201360,1653,Kolhapur,Senior,Employee,Salary
+201361,1319,Pune,Senior,Employee,Savings
+201362,1549,Pune,Adult,Business,Savings
+201363,1804,Nagpur,Adult,Individual,Current
+201364,1893,Solapur,Adult,Employee,Savings
+201365,1138,Nashik,Adult,Employee,Savings
+201366,1510,Kolhapur,Adult,Employee,Current
+201367,1867,Pune,Adult,Business,Salary
+201368,1844,Solapur,Adult,Employee,Current
+201369,1258,Nashik,Adult,Unknown,Savings
+201370,1672,Pune,Young Adult,Employee,Salary
+201371,1901,Pune,Adult,Employee,Savings
+201372,1689,Kolhapur,Senior,Business,Savings
+201373,1009,Kolhapur,Senior,Individual,Current
+201374,1260,Pune,Adult,Individual,Salary
+201375,1918,Mumbai,Young Adult,Business,Savings
+201376,1649,Pune,Adult,Employee,Current
+201377,1171,Solapur,Adult,Unknown,Savings
+201378,1897,Pune,Adult,Unknown,Savings
+201379,1012,Nagpur,Adult,Employee,Savings
+201380,1167,Nagpur,Adult,Employee,Salary
+201381,1641,Nagpur,Senior,Employee,Salary
+201382,1595,Mumbai,Adult,Employee,Current
+201383,1320,Mumbai,Adult,Business,Current
+201384,1318,Pune,Senior,Business,Salary
+201385,1612,Nagpur,Adult,Employee,Savings
+201386,1328,Mumbai,Young Adult,Individual,Savings
+201387,1784,Kolhapur,Adult,Employee,Savings
+201388,1776,Pune,Adult,Individual,Current
+201389,1970,Solapur,Senior,Business,Salary
+201390,1910,Nashik,Adult,Individual,Savings
+201391,1919,Pune,Adult,Business,Savings
+201392,1549,Nashik,Adult,Business,Savings
+201393,1418,Nagpur,Young Adult,Business,Salary
+201394,1605,Nashik,Senior,Employee,Savings
+201395,1094,Nagpur,Senior,Business,Savings
+201396,1816,Kolhapur,Adult,Business,Current
+201397,1580,Nashik,Adult,Business,Current
+201398,1317,Pune,Adult,Employee,Savings
+201399,1955,Nagpur,Senior,Employee,Savings
+201400,1235,Pune,Young Adult,Business,Current
+201401,1945,Mumbai,Young Adult,Individual,Savings
+201402,1333,Nagpur,Adult,Employee,Salary
+201403,1884,Nashik,Adult,Unknown,Current
+201404,1375,Nagpur,Adult,Individual,Savings
+201405,1458,Pune,Young Adult,Employee,Savings
+201406,1136,Kolhapur,Adult,Employee,Savings
+201407,1929,Nagpur,Adult,Business,Savings
+201408,1587,Nashik,Adult,Individual,Salary
+201409,1994,Mumbai,Senior,Business,Salary
+201410,1546,Solapur,Young Adult,Individual,Savings
+201411,1512,Kolhapur,Adult,Individual,Savings
+201412,1295,Mumbai,Senior,Business,Savings
+201413,1319,Nagpur,Adult,Employee,Savings
+201414,1917,Pune,Senior,Unknown,Current
+201415,1571,Pune,Senior,Individual,Savings
+201416,1831,Nashik,Adult,Employee,Salary
+201417,1348,Pune,Senior,Individual,Savings
+201418,1839,Kolhapur,Adult,Employee,Current
+201419,1778,Pune,Adult,Unknown,Salary
+201420,1872,Nashik,Adult,Unknown,Savings
+201421,1228,Solapur,Adult,Individual,Savings
+201422,1269,Nagpur,Senior,Employee,Savings
+201423,1827,Nagpur,Senior,Business,Savings
+201424,1797,Pune,Senior,Individual,Salary
+201425,1290,Mumbai,Unknown,Individual,Salary
+201426,1724,Nagpur,Senior,Unknown,Salary
+201427,1164,Solapur,Senior,Unknown,Salary
+201428,1004,Pune,Adult,Unknown,Savings
+201429,1850,Nashik,Adult,Business,Salary
+201430,1378,Solapur,Young Adult,Business,Salary
+201431,1077,Pune,Senior,Employee,Savings
+201432,1409,Solapur,Adult,Individual,Savings
+201433,1573,Nagpur,Young Adult,Individual,Current
+201434,1131,Nashik,Young Adult,Business,Savings
+201435,1600,Pune,Adult,Business,Savings
+201436,1748,Kolhapur,Adult,Business,Salary
+201437,1041,Nashik,Adult,Unknown,Salary
+201438,1088,Kolhapur,Senior,Business,Savings
+201439,1401,Solapur,Adult,Unknown,Savings
+201440,1295,Mumbai,Senior,Individual,Salary
+201441,1839,Nashik,Adult,Business,Current
+201442,1294,Solapur,Young Adult,Employee,Savings
+201443,1615,Kolhapur,Adult,Individual,Salary
+201444,1525,Nagpur,Adult,Unknown,Salary
+201445,1799,Nagpur,Young Adult,Unknown,Salary
+201446,1690,Mumbai,Adult,Individual,Savings
+201447,1636,Nashik,Young Adult,Individual,Savings
+201448,1421,Nashik,Adult,Business,Salary
+201449,1864,Nashik,Adult,Business,Savings
+201450,1022,Solapur,Senior,Unknown,Salary
+201451,1574,Mumbai,Senior,Individual,Savings
+201452,1142,Nashik,Adult,Individual,Savings
+201453,1992,Solapur,Unknown,Individual,Savings
+201454,1664,Nagpur,Adult,Individual,Savings
+201455,1144,Kolhapur,Senior,Individual,Salary
+201456,1224,Solapur,Senior,Unknown,Savings
+201457,1502,Nagpur,Senior,Employee,Salary
+201458,1961,Nagpur,Adult,Employee,Salary
+201459,1973,Kolhapur,Adult,Individual,Savings
+201460,1820,Nagpur,Young Adult,Individual,Salary
+201461,1615,Mumbai,Young Adult,Business,Savings
+201462,1103,Kolhapur,Adult,Business,Salary
+201463,1946,Nagpur,Adult,Business,Current
+201464,1038,Pune,Adult,Employee,Savings
+201465,1946,Solapur,Adult,Employee,Savings
+201466,1197,Nagpur,Senior,Employee,Current
+201467,1645,Mumbai,Senior,Employee,Salary
+201468,1578,Nashik,Senior,Business,Savings
+201469,1390,Nagpur,Adult,Individual,Current
+201470,1178,Nashik,Senior,Business,Savings
+201471,1967,Pune,Senior,Individual,Salary
+201472,1553,Nagpur,Adult,Business,Savings
+201473,1447,Kolhapur,Adult,Unknown,Current
+201474,1499,Nashik,Senior,Business,Savings
+201475,1014,Pune,Adult,Employee,Current
+201476,1622,Kolhapur,Adult,Unknown,Salary
+201477,1668,Kolhapur,Adult,Business,Salary
+201478,1288,Kolhapur,Young Adult,Individual,Salary
+201479,1477,Kolhapur,Senior,Individual,Current
+201480,1230,Nagpur,Senior,Business,Salary
+201481,1922,Solapur,Adult,Business,Current
+201482,1419,Nagpur,Adult,Employee,Salary
+201483,1156,Nagpur,Adult,Employee,Current
+201484,1549,Pune,Adult,Unknown,Current
+201485,1440,Pune,Adult,Individual,Savings
+201486,1096,Solapur,Senior,Employee,Current
+201487,1996,Pune,Young Adult,Individual,Savings
+201488,1410,Mumbai,Adult,Business,Salary
+201489,1950,Solapur,Senior,Individual,Current
+201490,1288,Pune,Adult,Business,Salary
+201491,1253,Solapur,Senior,Individual,Savings
+201492,1195,Nagpur,Senior,Business,Savings
+201493,1597,Nagpur,Senior,Business,Salary
+201494,1833,Solapur,Young Adult,Employee,Savings
+201495,1521,Mumbai,Adult,Employee,Savings
+201496,1516,Mumbai,Adult,Employee,Salary
+201497,1634,Solapur,Adult,Employee,Current
+201498,1841,Pune,Senior,Business,Savings
+201499,1864,Nashik,Senior,Individual,Salary
+201500,1117,Mumbai,Senior,Business,Savings
+201501,1805,Kolhapur,Senior,Individual,Salary
+201502,1908,Nagpur,Senior,Individual,Savings
+201503,1158,Solapur,Adult,Employee,Current
+201504,1814,Kolhapur,Adult,Employee,Savings
+201505,1227,Solapur,Senior,Employee,Salary
+201506,1876,Nagpur,Adult,Business,Savings
+201507,1215,Nagpur,Young Adult,Individual,Salary
+201508,1947,Mumbai,Adult,Individual,Savings
+201509,1695,Mumbai,Senior,Business,Savings
+201510,1014,Kolhapur,Young Adult,Business,Salary
+201511,1156,Solapur,Senior,Individual,Savings
+201512,1647,Nagpur,Senior,Business,Savings
+201513,1260,Kolhapur,Adult,Employee,Savings
+201514,1156,Nashik,Young Adult,Business,Savings
+201515,1046,Kolhapur,Adult,Business,Savings
+201516,1323,Pune,Senior,Business,Savings
+201517,1843,Kolhapur,Senior,Business,Savings
+201518,1684,Pune,Senior,Individual,Current
+201519,1129,Pune,Adult,Business,Current
+201520,1410,Pune,Adult,Employee,Savings
+201521,1094,Nashik,Adult,Individual,Salary
+201522,1626,Kolhapur,Senior,Employee,Salary
+201523,1754,Kolhapur,Adult,Unknown,Savings
+201524,1931,Nashik,Adult,Unknown,Savings
+201525,1291,Nagpur,Adult,Individual,Salary
+201526,1793,Mumbai,Young Adult,Business,Savings
+201527,1810,Kolhapur,Adult,Business,Savings
+201528,1282,Mumbai,Adult,Individual,Savings
+201529,1068,Solapur,Adult,Employee,Salary
+201530,1659,Solapur,Adult,Business,Savings
+201531,1010,Nashik,Senior,Employee,Salary
+201532,1253,Solapur,Senior,Individual,Salary
+201533,1841,Solapur,Adult,Business,Current
+201534,1871,Nagpur,Senior,Unknown,Salary
+201535,1549,Nagpur,Adult,Business,Savings
+201536,1133,Nagpur,Adult,Business,Current
+201537,1711,Solapur,Senior,Employee,Savings
+201538,1022,Nashik,Senior,Individual,Savings
+201539,1814,Pune,Senior,Business,Savings
+201540,1345,Pune,Adult,Employee,Savings
+201541,1301,Mumbai,Young Adult,Business,Savings
+201542,1362,Pune,Senior,Individual,Savings
+201543,1395,Pune,Adult,Employee,Savings
+201544,1217,Nagpur,Adult,Employee,Salary
+201545,1140,Nagpur,Senior,Unknown,Savings
+201546,1615,Solapur,Senior,Individual,Current
+201547,1957,Mumbai,Senior,Individual,Savings
+201548,1209,Kolhapur,Adult,Individual,Savings
+201549,1984,Mumbai,Senior,Business,Savings
+201550,1992,Mumbai,Young Adult,Individual,Savings
+201551,1622,Nashik,Young Adult,Individual,Current
+201552,1615,Solapur,Senior,Individual,Savings
+201553,1827,Nashik,Young Adult,Business,Salary
+201554,1682,Mumbai,Adult,Individual,Salary
+201555,1459,Mumbai,Senior,Employee,Savings
+201556,1355,Mumbai,Adult,Individual,Salary
+201557,1323,Pune,Adult,Employee,Savings
+201558,1132,Nashik,Adult,Business,Current
+201559,1887,Mumbai,Adult,Employee,Salary
+201560,1804,Nagpur,Adult,Unknown,Savings
+201561,1839,Solapur,Senior,Unknown,Savings
+201562,1126,Solapur,Senior,Employee,Savings
+201563,1105,Nagpur,Adult,Business,Savings
+201564,1603,Solapur,Senior,Business,Current
+201565,1798,Pune,Young Adult,Unknown,Savings
+201566,1377,Pune,Adult,Employee,Savings
+201567,1904,Kolhapur,Senior,Employee,Savings
+201568,1050,Kolhapur,Adult,Employee,Salary
+201569,1028,Kolhapur,Unknown,Business,Savings
+201570,1461,Solapur,Adult,Individual,Salary
+201571,1295,Pune,Senior,Individual,Current
+201572,1296,Pune,Adult,Employee,Salary
+201573,1725,Pune,Adult,Individual,Salary
+201574,1778,Nagpur,Adult,Employee,Savings
+201575,1406,Pune,Senior,Individual,Savings
+201576,1768,Nagpur,Adult,Employee,Current
+201577,1813,Kolhapur,Senior,Unknown,Salary
+201578,1612,Kolhapur,Adult,Employee,Current
+201579,1404,Solapur,Young Adult,Business,Savings
+201580,1345,Kolhapur,Adult,Individual,Savings
+201581,1621,Solapur,Senior,Individual,Salary
+201582,1419,Mumbai,Senior,Business,Savings
+201583,1181,Mumbai,Adult,Business,Savings
+201584,1982,Nashik,Senior,Employee,Savings
+201585,1824,Solapur,Adult,Unknown,Salary
+201586,1000,Nashik,Senior,Unknown,Savings
+201587,1830,Nashik,Senior,Unknown,Savings
+201588,1949,Mumbai,Adult,Employee,Current
+201589,1566,Solapur,Adult,Individual,Savings
+201590,1370,Mumbai,Unknown,Business,Salary
+201591,1935,Nashik,Senior,Business,Current
+201592,1910,Solapur,Adult,Individual,Savings
+201593,1660,Nashik,Adult,Business,Salary
+201594,1430,Pune,Adult,Individual,Salary
+201595,1968,Solapur,Adult,Employee,Savings
+201596,1308,Solapur,Senior,Employee,Savings
+201597,1136,Nashik,Senior,Business,Salary
+201598,1201,Pune,Adult,Employee,Savings
+201599,1435,Nagpur,Adult,Business,Salary
+201600,1312,Mumbai,Adult,Business,Salary
+201601,1116,Nashik,Adult,Business,Savings
+201602,1665,Solapur,Young Adult,Unknown,Salary
+201603,1936,Mumbai,Adult,Business,Savings
+201604,1802,Mumbai,Young Adult,Unknown,Current
+201605,1574,Mumbai,Adult,Individual,Savings
+201606,1243,Nagpur,Adult,Employee,Salary
+201607,1536,Kolhapur,Adult,Individual,Current
+201608,1601,Nashik,Young Adult,Individual,Current
+201609,1074,Kolhapur,Adult,Business,Salary
+201610,1805,Kolhapur,Adult,Individual,Current
+201611,1385,Kolhapur,Adult,Employee,Savings
+201612,1902,Mumbai,Young Adult,Employee,Salary
+201613,1209,Pune,Senior,Employee,Salary
+201614,1474,Mumbai,Senior,Employee,Salary
+201615,1417,Mumbai,Senior,Business,Salary
+201616,1346,Solapur,Adult,Individual,Savings
+201617,1528,Solapur,Senior,Employee,Savings
+201618,1639,Kolhapur,Senior,Business,Savings
+201619,1938,Mumbai,Young Adult,Business,Current
+201620,1954,Kolhapur,Adult,Employee,Savings
+201621,1875,Solapur,Senior,Business,Salary
+201622,1762,Pune,Adult,Employee,Savings
+201623,1178,Nashik,Young Adult,Employee,Savings
+201624,1181,Kolhapur,Senior,Individual,Savings
+201625,1663,Pune,Senior,Employee,Savings
+201626,1024,Nashik,Adult,Business,Current
+201627,1966,Nagpur,Adult,Individual,Savings
+201628,1179,Kolhapur,Adult,Employee,Savings
+201629,1709,Kolhapur,Senior,Business,Savings
+201630,1500,Nagpur,Adult,Employee,Salary
+201631,1855,Nagpur,Adult,Individual,Salary
+201632,1160,Kolhapur,Senior,Business,Savings
+201633,1176,Nagpur,Adult,Individual,Salary
+201634,1284,Mumbai,Senior,Unknown,Savings
+201635,1062,Nashik,Adult,Individual,Savings
+201636,1661,Nashik,Adult,Business,Current
+201637,1665,Nashik,Senior,Employee,Savings
+201638,1155,Mumbai,Adult,Business,Salary
+201639,1881,Nagpur,Adult,Individual,Savings
+201640,1468,Pune,Adult,Business,Salary
+201641,1048,Nagpur,Senior,Employee,Savings
+201642,1966,Kolhapur,Senior,Employee,Current
+201643,1848,Solapur,Unknown,Employee,Salary
+201644,1083,Nashik,Adult,Business,Savings
+201645,1360,Nagpur,Adult,Unknown,Savings
+201646,1688,Pune,Adult,Individual,Savings
+201647,1147,Kolhapur,Senior,Individual,Current
+201648,1629,Mumbai,Adult,Business,Savings
+201649,1341,Mumbai,Senior,Individual,Savings
+201650,1475,Pune,Adult,Unknown,Current
+201651,1062,Kolhapur,Unknown,Business,Savings
+201652,1700,Nashik,Senior,Business,Current
+201653,1359,Nagpur,Senior,Individual,Savings
+201654,1560,Kolhapur,Adult,Individual,Savings
+201655,1326,Mumbai,Young Adult,Business,Current
+201656,1768,Pune,Adult,Unknown,Current
+201657,1735,Pune,Adult,Unknown,Savings
+201658,1140,Nagpur,Young Adult,Individual,Savings
+201659,1989,Pune,Adult,Individual,Savings
+201660,1214,Pune,Adult,Individual,Savings
+201661,1434,Kolhapur,Senior,Business,Savings
+201662,1890,Nashik,Senior,Individual,Savings
+201663,1951,Nagpur,Adult,Individual,Current
+201664,1722,Kolhapur,Unknown,Individual,Current
+201665,1317,Nashik,Adult,Employee,Savings
+201666,1031,Kolhapur,Adult,Unknown,Savings
+201667,1669,Solapur,Adult,Employee,Savings
+201668,1284,Kolhapur,Senior,Individual,Current
+201669,1304,Pune,Young Adult,Employee,Salary
+201670,1428,Nashik,Adult,Employee,Current
+201671,1476,Nagpur,Senior,Individual,Salary
+201672,1285,Nagpur,Adult,Individual,Salary
+201673,1143,Nashik,Senior,Business,Savings
+201674,1423,Pune,Senior,Individual,Savings
+201675,1018,Mumbai,Unknown,Individual,Current
+201676,1017,Kolhapur,Young Adult,Employee,Savings
+201677,1768,Pune,Adult,Business,Current
+201678,1589,Solapur,Adult,Employee,Salary
+201679,1370,Nashik,Adult,Business,Salary
+201680,1174,Kolhapur,Adult,Employee,Savings
+201681,1193,Nagpur,Adult,Business,Current
+201682,1501,Mumbai,Senior,Individual,Current
+201683,1987,Solapur,Senior,Unknown,Salary
+201684,1112,Nagpur,Young Adult,Individual,Salary
+201685,1113,Nashik,Adult,Employee,Salary
+201686,1221,Kolhapur,Adult,Business,Savings
+201687,1677,Nashik,Adult,Employee,Savings
+201688,1946,Kolhapur,Senior,Unknown,Savings
+201689,1830,Pune,Senior,Employee,Savings
+201690,1643,Mumbai,Senior,Business,Salary
+201691,1896,Pune,Senior,Business,Salary
+201692,1263,Pune,Adult,Unknown,Savings
+201693,1924,Nashik,Senior,Unknown,Savings
+201694,1054,Mumbai,Adult,Unknown,Savings
+201695,1870,Kolhapur,Adult,Business,Salary
+201696,1642,Kolhapur,Adult,Employee,Savings
+201697,1799,Solapur,Adult,Individual,Savings
+201698,1777,Nagpur,Adult,Business,Savings
+201699,1457,Solapur,Adult,Unknown,Savings
+201700,1978,Solapur,Senior,Business,Salary
+201701,1877,Kolhapur,Adult,Unknown,Savings
+201702,1161,Nashik,Adult,Business,Savings
+201703,1379,Pune,Adult,Individual,Savings
+201704,1992,Pune,Senior,Individual,Savings
+201705,1086,Pune,Young Adult,Employee,Current
+201706,1054,Mumbai,Senior,Individual,Savings
+201707,1475,Kolhapur,Senior,Employee,Savings
+201708,1799,Nashik,Adult,Unknown,Salary
+201709,1177,Mumbai,Senior,Business,Savings
+201710,1390,Nagpur,Young Adult,Employee,Current
+201711,1348,Nashik,Adult,Individual,Savings
+201712,1007,Solapur,Senior,Employee,Savings
+201713,1832,Nashik,Young Adult,Employee,Current
+201714,1312,Nashik,Adult,Employee,Salary
+201715,1758,Pune,Adult,Individual,Current
+201716,1834,Nashik,Adult,Employee,Savings
+201717,1983,Solapur,Senior,Individual,Savings
+201718,1982,Solapur,Adult,Unknown,Savings
+201719,1442,Kolhapur,Senior,Individual,Current
+201720,1766,Nashik,Adult,Individual,Current
+201721,1327,Pune,Senior,Individual,Savings
+201722,1053,Nashik,Adult,Employee,Current
+201723,1760,Nagpur,Adult,Business,Current
+201724,1238,Nagpur,Senior,Business,Savings
+201725,1228,Pune,Adult,Employee,Current
+201726,1578,Kolhapur,Adult,Business,Savings
+201727,1050,Kolhapur,Adult,Employee,Savings
+201728,1608,Solapur,Senior,Business,Salary
+201729,1603,Solapur,Adult,Individual,Savings
+201730,1263,Mumbai,Senior,Employee,Savings
+201731,1417,Pune,Adult,Business,Current
+201732,1802,Nashik,Adult,Business,Salary
+201733,1095,Pune,Senior,Business,Salary
+201734,1087,Mumbai,Senior,Individual,Current
+201735,1077,Solapur,Senior,Individual,Savings
+201736,1287,Pune,Unknown,Unknown,Salary
+201737,1119,Pune,Adult,Individual,Current
+201738,1813,Solapur,Young Adult,Individual,Savings
+201739,1490,Mumbai,Young Adult,Individual,Salary
+201740,1911,Solapur,Senior,Employee,Savings
+201741,1451,Kolhapur,Senior,Individual,Savings
+201742,1499,Nashik,Adult,Employee,Salary
+201743,1164,Solapur,Adult,Employee,Current
+201744,1181,Mumbai,Young Adult,Unknown,Savings
+201745,1468,Nagpur,Senior,Individual,Savings
+201746,1909,Kolhapur,Adult,Employee,Current
+201747,1734,Nagpur,Adult,Business,Savings
+201748,1822,Solapur,Adult,Business,Savings
+201749,1943,Kolhapur,Senior,Employee,Current
+201750,1977,Nashik,Senior,Business,Salary
+201751,1006,Solapur,Senior,Individual,Current
+201752,1329,Nashik,Adult,Business,Salary
+201753,1774,Pune,Adult,Employee,Salary
+201754,1672,Nagpur,Senior,Individual,Current
+201755,1150,Kolhapur,Unknown,Unknown,Savings
+201756,1084,Nashik,Adult,Business,Salary
+201757,1146,Mumbai,Young Adult,Individual,Savings
+201758,1623,Nashik,Young Adult,Individual,Savings
+201759,1380,Mumbai,Adult,Individual,Savings
+201760,1914,Solapur,Senior,Business,Salary
+201761,1547,Kolhapur,Young Adult,Individual,Savings
+201762,1284,Nashik,Adult,Individual,Savings
+201763,1699,Nashik,Adult,Individual,Current
+201764,1081,Kolhapur,Young Adult,Business,Salary
+201765,1513,Nashik,Adult,Business,Current
+201766,1896,Mumbai,Adult,Business,Savings
+201767,1814,Nashik,Adult,Individual,Savings
+201768,1708,Nagpur,Senior,Unknown,Current
+201769,1915,Solapur,Adult,Business,Savings
+201770,1522,Pune,Adult,Unknown,Current
+201771,1745,Mumbai,Unknown,Employee,Savings
+201772,1385,Nagpur,Senior,Employee,Salary
+201773,1706,Solapur,Senior,Business,Savings
+201774,1470,Kolhapur,Young Adult,Individual,Savings
+201775,1118,Mumbai,Young Adult,Employee,Salary
+201776,1395,Pune,Young Adult,Business,Savings
+201777,1531,Solapur,Adult,Business,Savings
+201778,1260,Pune,Adult,Unknown,Salary
+201779,1804,Kolhapur,Senior,Business,Savings
+201780,1933,Kolhapur,Adult,Individual,Savings
+201781,1255,Mumbai,Adult,Individual,Savings
+201782,1733,Nashik,Adult,Employee,Savings
+201783,1904,Kolhapur,Young Adult,Employee,Savings
+201784,1225,Solapur,Senior,Individual,Salary
+201785,1052,Nashik,Adult,Individual,Current
+201786,1939,Nagpur,Senior,Employee,Savings
+201787,1866,Pune,Unknown,Business,Savings
+201788,1499,Nashik,Adult,Unknown,Salary
+201789,1505,Pune,Adult,Business,Salary
+201790,1853,Nashik,Senior,Business,Savings
+201791,1363,Nagpur,Senior,Business,Salary
+201792,1279,Kolhapur,Adult,Unknown,Salary
+201793,1592,Nagpur,Senior,Business,Savings
+201794,1713,Kolhapur,Young Adult,Business,Savings
+201795,1157,Kolhapur,Senior,Unknown,Savings
+201796,1631,Pune,Young Adult,Unknown,Salary
+201797,1058,Solapur,Adult,Employee,Salary
+201798,1726,Nagpur,Senior,Individual,Current
+201799,1127,Nashik,Adult,Individual,Savings
+201800,1735,Nagpur,Adult,Individual,Current
+201801,1720,Pune,Adult,Individual,Salary
+201802,1881,Kolhapur,Senior,Individual,Salary
+201803,1114,Pune,Senior,Employee,Savings
+201804,1208,Mumbai,Senior,Employee,Current
+201805,1525,Mumbai,Adult,Business,Savings
+201806,1520,Nashik,Senior,Individual,Salary
+201807,1551,Pune,Adult,Business,Current
+201808,1961,Nashik,Adult,Business,Savings
+201809,1236,Nashik,Senior,Employee,Salary
+201810,1280,Mumbai,Adult,Unknown,Savings
+201811,1358,Nashik,Young Adult,Individual,Salary
+201812,1200,Mumbai,Young Adult,Individual,Savings
+201813,1757,Kolhapur,Young Adult,Employee,Current
+201814,1277,Pune,Senior,Individual,Salary
+201815,1234,Nashik,Adult,Employee,Savings
+201816,1493,Mumbai,Senior,Employee,Current
+201817,1003,Nagpur,Adult,Individual,Savings
+201818,1665,Nashik,Adult,Individual,Savings
+201819,1441,Solapur,Adult,Employee,Current
+201820,1028,Kolhapur,Senior,Business,Salary
+201821,1108,Kolhapur,Senior,Employee,Salary
+201822,1609,Nagpur,Senior,Individual,Salary
+201823,1726,Mumbai,Senior,Individual,Current
+201824,1804,Nashik,Adult,Individual,Salary
+201825,1074,Mumbai,Senior,Individual,Salary
+201826,1837,Kolhapur,Senior,Business,Savings
+201827,1145,Mumbai,Senior,Individual,Savings
+201828,1127,Kolhapur,Young Adult,Business,Savings
+201829,1852,Mumbai,Adult,Business,Salary
+201830,1041,Nagpur,Senior,Individual,Current
+201831,1355,Pune,Senior,Employee,Salary
+201832,1040,Nagpur,Adult,Unknown,Savings
+201833,1933,Nagpur,Senior,Business,Salary
+201834,1033,Pune,Senior,Employee,Savings
+201835,1016,Pune,Adult,Business,Current
+201836,1676,Nashik,Senior,Business,Savings
+201837,1152,Nashik,Young Adult,Employee,Savings
+201838,1997,Nagpur,Young Adult,Unknown,Salary
+201839,1377,Nagpur,Adult,Employee,Salary
+201840,1587,Kolhapur,Young Adult,Employee,Savings
+201841,1598,Kolhapur,Senior,Unknown,Savings
+201842,1628,Nashik,Young Adult,Business,Savings
+201843,1873,Solapur,Adult,Employee,Savings
+201844,1341,Solapur,Young Adult,Individual,Savings
+201845,1980,Nashik,Adult,Business,Salary
+201846,1026,Kolhapur,Young Adult,Business,Salary
+201847,1824,Kolhapur,Senior,Business,Savings
+201848,1286,Solapur,Adult,Unknown,Current
+201849,1645,Mumbai,Senior,Business,Savings
+201850,1730,Mumbai,Senior,Employee,Savings
+201851,1167,Kolhapur,Young Adult,Individual,Savings
+201852,1609,Mumbai,Senior,Employee,Current
+201853,1267,Pune,Young Adult,Business,Savings
+201854,1748,Nashik,Adult,Business,Savings
+201855,1820,Nashik,Young Adult,Employee,Savings
+201856,1454,Kolhapur,Adult,Employee,Savings
+201857,1905,Nagpur,Adult,Individual,Savings
+201858,1684,Solapur,Senior,Individual,Salary
+201859,1400,Kolhapur,Adult,Employee,Salary
+201860,1921,Mumbai,Senior,Individual,Salary
+201861,1980,Solapur,Adult,Employee,Savings
+201862,1475,Nagpur,Senior,Employee,Savings
+201863,1701,Mumbai,Adult,Employee,Savings
+201864,1633,Pune,Adult,Individual,Savings
+201865,1557,Mumbai,Adult,Business,Salary
+201866,1575,Pune,Adult,Employee,Savings
+201867,1129,Solapur,Adult,Business,Savings
+201868,1821,Pune,Senior,Business,Current
+201869,1362,Solapur,Young Adult,Individual,Savings
+201870,1704,Solapur,Senior,Employee,Salary
+201871,1818,Solapur,Senior,Unknown,Savings
+201872,1692,Solapur,Senior,Business,Current
+201873,1291,Solapur,Adult,Unknown,Savings
+201874,1370,Mumbai,Adult,Business,Salary
+201875,1793,Solapur,Senior,Individual,Savings
+201876,1028,Mumbai,Senior,Individual,Current
+201877,1148,Solapur,Adult,Employee,Savings
+201878,1778,Pune,Adult,Employee,Salary
+201879,1295,Solapur,Adult,Individual,Savings
+201880,1010,Nagpur,Adult,Business,Savings
+201881,1511,Solapur,Senior,Employee,Salary
+201882,1675,Solapur,Adult,Employee,Salary
+201883,1112,Pune,Adult,Business,Savings
+201884,1186,Nashik,Adult,Business,Salary
+201885,1806,Pune,Adult,Employee,Savings
+201886,1743,Nagpur,Senior,Business,Salary
+201887,1226,Nashik,Senior,Business,Current
+201888,1309,Kolhapur,Adult,Employee,Savings
+201889,1097,Kolhapur,Senior,Individual,Salary
+201890,1054,Nagpur,Adult,Individual,Salary
+201891,1622,Pune,Adult,Employee,Savings
+201892,1663,Mumbai,Adult,Employee,Salary
+201893,1757,Nagpur,Young Adult,Unknown,Savings
+201894,1405,Nashik,Adult,Business,Salary
+201895,1068,Nashik,Young Adult,Business,Current
+201896,1311,Solapur,Senior,Unknown,Savings
+201897,1288,Kolhapur,Adult,Unknown,Current
+201898,1761,Nashik,Senior,Employee,Current
+201899,1547,Nagpur,Young Adult,Individual,Current
+201900,1750,Nashik,Senior,Business,Savings
+201901,1147,Nagpur,Senior,Employee,Savings
+201902,1466,Mumbai,Young Adult,Employee,Salary
+201903,1738,Solapur,Senior,Business,Savings
+201904,1243,Kolhapur,Adult,Unknown,Savings
+201905,1490,Nashik,Senior,Employee,Current
+201906,1848,Nagpur,Adult,Business,Savings
+201907,1957,Pune,Senior,Individual,Current
+201908,1506,Kolhapur,Senior,Business,Current
+201909,1364,Mumbai,Adult,Individual,Current
+201910,1481,Nagpur,Young Adult,Business,Savings
+201911,1200,Solapur,Senior,Individual,Savings
+201912,1153,Solapur,Adult,Business,Savings
+201913,1449,Mumbai,Adult,Individual,Salary
+201914,1500,Mumbai,Young Adult,Individual,Savings
+201915,1072,Solapur,Adult,Employee,Salary
+201916,1712,Nashik,Unknown,Employee,Current
+201917,1295,Nashik,Adult,Individual,Salary
+201918,1016,Nagpur,Adult,Employee,Savings
+201919,1640,Pune,Senior,Business,Savings
+201920,1216,Nagpur,Senior,Business,Salary
+201921,1060,Pune,Adult,Individual,Savings
+201922,1938,Mumbai,Adult,Business,Savings
+201923,1615,Kolhapur,Senior,Individual,Savings
+201924,1041,Nagpur,Senior,Employee,Salary
+201925,1024,Nagpur,Young Adult,Individual,Current
+201926,1038,Pune,Young Adult,Employee,Current
+201927,1802,Mumbai,Adult,Individual,Salary
+201928,1130,Mumbai,Adult,Unknown,Savings
+201929,1497,Pune,Adult,Employee,Salary
+201930,1228,Mumbai,Senior,Individual,Savings
+201931,1107,Solapur,Young Adult,Individual,Salary
+201932,1171,Nashik,Senior,Unknown,Savings
+201933,1434,Solapur,Adult,Business,Savings
+201934,1477,Kolhapur,Senior,Business,Current
+201935,1101,Nagpur,Senior,Unknown,Savings
+201936,1865,Kolhapur,Young Adult,Unknown,Current
+201937,1523,Nagpur,Adult,Business,Savings
+201938,1274,Nashik,Adult,Individual,Savings
+201939,1612,Mumbai,Senior,Business,Savings
+201940,1043,Solapur,Senior,Individual,Current
+201941,1954,Pune,Adult,Business,Savings
+201942,1816,Solapur,Adult,Business,Current
+201943,1956,Nashik,Adult,Business,Savings
+201944,1016,Kolhapur,Senior,Employee,Savings
+201945,1329,Pune,Adult,Business,Savings
+201946,1568,Mumbai,Adult,Unknown,Salary
+201947,1822,Nashik,Adult,Individual,Current
+201948,1496,Pune,Young Adult,Employee,Savings
+201949,1814,Nashik,Senior,Business,Current
+201950,1011,Nashik,Young Adult,Unknown,Salary
+201951,1317,Mumbai,Senior,Individual,Savings
+201952,1591,Nagpur,Adult,Individual,Salary
+201953,1215,Pune,Adult,Individual,Savings
+201954,1338,Mumbai,Senior,Individual,Salary
+201955,1775,Nashik,Unknown,Unknown,Current
+201956,1990,Mumbai,Senior,Business,Savings
+201957,1660,Nagpur,Adult,Business,Savings
+201958,1080,Solapur,Adult,Employee,Salary
+201959,1726,Pune,Senior,Business,Salary
+201960,1484,Nagpur,Adult,Individual,Current
+201961,1373,Kolhapur,Adult,Employee,Savings
+201962,1975,Pune,Senior,Employee,Savings
+201963,1709,Nagpur,Senior,Individual,Savings
+201964,1199,Nashik,Unknown,Employee,Savings
+201965,1536,Pune,Senior,Employee,Current
+201966,1465,Pune,Senior,Individual,Salary
+201967,1088,Mumbai,Young Adult,Individual,Current
+201968,1267,Nashik,Young Adult,Business,Savings
+201969,1654,Kolhapur,Adult,Individual,Current
+201970,1570,Solapur,Adult,Unknown,Salary
+201971,1921,Nagpur,Adult,Individual,Salary
+201972,1488,Mumbai,Adult,Business,Current
+201973,1876,Nagpur,Adult,Unknown,Salary
+201974,1537,Kolhapur,Adult,Unknown,Salary
+201975,1046,Kolhapur,Young Adult,Business,Savings
+201976,1287,Pune,Adult,Individual,Savings
+201977,1777,Kolhapur,Adult,Employee,Salary
+201978,1015,Nagpur,Senior,Employee,Savings
+201979,1710,Nashik,Adult,Individual,Savings
+201980,1400,Nashik,Adult,Individual,Savings
+201981,1918,Pune,Senior,Business,Current
+201982,1793,Solapur,Adult,Employee,Salary
+201983,1980,Nagpur,Young Adult,Business,Savings
+201984,1085,Nagpur,Adult,Unknown,Current
+201985,1249,Kolhapur,Adult,Business,Salary
+201986,1390,Nagpur,Senior,Business,Savings
+201987,1781,Mumbai,Adult,Business,Savings
+201988,1334,Solapur,Senior,Individual,Salary
+201989,1628,Kolhapur,Young Adult,Employee,Savings
+201990,1518,Mumbai,Adult,Unknown,Current
+201991,1136,Pune,Adult,Unknown,Current
+201992,1882,Nashik,Adult,Unknown,Savings
+201993,1687,Pune,Adult,Employee,Salary
+201994,1839,Nashik,Adult,Business,Savings
+201995,1497,Pune,Adult,Individual,Savings
+201996,1826,Nagpur,Senior,Individual,Savings
+201997,1726,Mumbai,Adult,Employee,Savings
+201998,1476,Nashik,Senior,Employee,Salary
+201999,1593,Kolhapur,Senior,Individual,Salary
+202000,1222,Mumbai,Adult,Employee,Salary
+202001,1989,Kolhapur,Young Adult,Individual,Savings
+202002,1371,Mumbai,Adult,Employee,Salary
+202003,1934,Mumbai,Senior,Business,Current
+202004,1994,Pune,Adult,Business,Salary
+202005,1401,Nashik,Senior,Individual,Salary
+202006,1442,Nashik,Adult,Employee,Savings
+202007,1489,Mumbai,Senior,Business,Savings
+202008,1614,Nagpur,Young Adult,Employee,Savings
+202009,1272,Nagpur,Senior,Employee,Current
+202010,1525,Kolhapur,Adult,Business,Salary
+202011,1158,Kolhapur,Adult,Unknown,Savings
+202012,1151,Pune,Adult,Individual,Savings
+202013,1994,Mumbai,Adult,Employee,Savings
+202014,1619,Kolhapur,Unknown,Employee,Salary
+202015,1187,Kolhapur,Adult,Employee,Savings
+202016,1812,Solapur,Young Adult,Individual,Savings
+202017,1097,Mumbai,Adult,Individual,Savings
+202018,1130,Pune,Adult,Individual,Current
+202019,1804,Kolhapur,Adult,Unknown,Current
+202020,1170,Pune,Senior,Business,Salary
+202021,1935,Nashik,Adult,Business,Savings
+202022,1985,Pune,Senior,Business,Savings
+202023,1182,Nagpur,Adult,Individual,Savings
+202024,1982,Nagpur,Adult,Business,Savings
+202025,1363,Pune,Senior,Business,Savings
+202026,1038,Nagpur,Senior,Employee,Savings
+202027,1526,Nashik,Adult,Business,Current
+202028,1887,Mumbai,Senior,Business,Savings
+202029,1496,Nagpur,Adult,Business,Savings
+202030,1515,Nagpur,Adult,Individual,Salary
+202031,1348,Pune,Senior,Unknown,Current
+202032,1981,Nashik,Adult,Unknown,Salary
+202033,1920,Mumbai,Adult,Employee,Salary
+202034,1396,Pune,Senior,Individual,Savings
+202035,1721,Pune,Unknown,Individual,Salary
+202036,1160,Solapur,Adult,Unknown,Current
+202037,1015,Nashik,Adult,Employee,Savings
+202038,1492,Mumbai,Adult,Employee,Savings
+202039,1425,Nashik,Senior,Individual,Savings
+202040,1107,Mumbai,Senior,Individual,Savings
+202041,1893,Nashik,Adult,Business,Savings
+202042,1449,Pune,Adult,Employee,Savings
+202043,1310,Pune,Adult,Unknown,Savings
+202044,1738,Kolhapur,Senior,Business,Savings
+202045,1169,Nagpur,Senior,Business,Savings
+202046,1545,Solapur,Senior,Individual,Savings
+202047,1413,Nashik,Unknown,Individual,Savings
+202048,1250,Solapur,Young Adult,Employee,Current
+202049,1758,Kolhapur,Adult,Employee,Savings
+202050,1780,Nagpur,Adult,Individual,Salary
+202051,1140,Nashik,Adult,Unknown,Salary
+202052,1273,Mumbai,Young Adult,Employee,Current
+202053,1415,Nagpur,Young Adult,Individual,Salary
+202054,1607,Pune,Senior,Individual,Savings
+202055,1738,Kolhapur,Senior,Individual,Savings
+202056,1890,Nagpur,Adult,Unknown,Salary
+202057,1038,Nagpur,Adult,Individual,Savings
+202058,1813,Pune,Adult,Employee,Salary
+202059,1028,Nashik,Senior,Business,Current
+202060,1957,Mumbai,Senior,Individual,Savings
+202061,1476,Pune,Adult,Individual,Savings
+202062,1317,Mumbai,Adult,Individual,Current
+202063,1244,Nashik,Young Adult,Employee,Savings
+202064,1747,Nagpur,Young Adult,Individual,Savings
+202065,1696,Mumbai,Adult,Individual,Salary
+202066,1271,Kolhapur,Senior,Business,Current
+202067,1439,Kolhapur,Senior,Individual,Savings
+202068,1747,Pune,Adult,Business,Savings
+202069,1238,Nashik,Senior,Business,Salary
+202070,1376,Pune,Senior,Employee,Current
+202071,1265,Pune,Adult,Employee,Current
+202072,1925,Solapur,Adult,Individual,Salary
+202073,1920,Pune,Senior,Business,Savings
+202074,1358,Solapur,Adult,Business,Savings
+202075,1339,Kolhapur,Senior,Business,Salary
+202076,1388,Kolhapur,Unknown,Individual,Salary
+202077,1576,Pune,Senior,Unknown,Savings
+202078,1989,Kolhapur,Senior,Individual,Savings
+202079,1688,Nashik,Senior,Employee,Salary
+202080,1002,Solapur,Senior,Employee,Savings
+202081,1428,Solapur,Adult,Individual,Salary
+202082,1141,Pune,Young Adult,Employee,Savings
+202083,1375,Kolhapur,Adult,Business,Savings
+202084,1669,Mumbai,Senior,Business,Savings
+202085,1323,Solapur,Young Adult,Business,Salary
+202086,1145,Pune,Young Adult,Employee,Salary
+202087,1957,Pune,Adult,Business,Current
+202088,1292,Nashik,Senior,Individual,Salary
+202089,1664,Nagpur,Unknown,Employee,Savings
+202090,1431,Nagpur,Unknown,Individual,Savings
+202091,1704,Solapur,Adult,Employee,Salary
+202092,1948,Nashik,Senior,Employee,Salary
+202093,1974,Nashik,Senior,Employee,Salary
+202094,1584,Nashik,Adult,Employee,Salary
+202095,1398,Solapur,Adult,Unknown,Savings
+202096,1816,Nagpur,Adult,Employee,Savings
+202097,1888,Nashik,Senior,Unknown,Salary
+202098,1343,Kolhapur,Adult,Business,Savings
+202099,1963,Pune,Adult,Employee,Savings
+202100,1139,Pune,Senior,Business,Current
+202101,1186,Mumbai,Adult,Individual,Savings
+202102,1804,Mumbai,Adult,Business,Salary
+202103,1060,Solapur,Senior,Employee,Savings
+202104,1996,Solapur,Young Adult,Unknown,Salary
+202105,1938,Pune,Senior,Business,Current
+202106,1379,Kolhapur,Adult,Business,Current
+202107,1709,Nagpur,Senior,Business,Savings
+202108,1806,Nagpur,Senior,Employee,Savings
+202109,1439,Solapur,Adult,Individual,Savings
+202110,1318,Kolhapur,Adult,Employee,Savings
+202111,1301,Solapur,Senior,Employee,Current
+202112,1343,Nagpur,Senior,Individual,Savings
+202113,1010,Solapur,Senior,Unknown,Savings
+202114,1061,Nashik,Senior,Employee,Savings
+202115,1844,Solapur,Adult,Unknown,Current
+202116,1225,Pune,Adult,Business,Savings
+202117,1152,Solapur,Senior,Employee,Salary
+202118,1710,Pune,Adult,Unknown,Current
+202119,1563,Kolhapur,Adult,Employee,Salary
+202120,1771,Nagpur,Adult,Unknown,Salary
+202121,1570,Mumbai,Young Adult,Employee,Savings
+202122,1583,Mumbai,Adult,Employee,Salary
+202123,1659,Nagpur,Unknown,Employee,Current
+202124,1860,Mumbai,Adult,Employee,Salary
+202125,1574,Solapur,Adult,Employee,Salary
+202126,1309,Kolhapur,Unknown,Employee,Savings
+202127,1884,Kolhapur,Unknown,Employee,Savings
+202128,1242,Nagpur,Adult,Unknown,Current
+202129,1492,Mumbai,Adult,Employee,Current
+202130,1365,Solapur,Senior,Employee,Savings
+202131,1329,Kolhapur,Senior,Business,Savings
+202132,1106,Kolhapur,Senior,Business,Savings
+202133,1225,Nashik,Senior,Unknown,Current
+202134,1824,Nashik,Senior,Employee,Salary
+202135,1217,Kolhapur,Adult,Individual,Salary
+202136,1936,Nagpur,Senior,Employee,Savings
+202137,1752,Pune,Adult,Employee,Savings
+202138,1505,Pune,Senior,Unknown,Savings
+202139,1258,Solapur,Senior,Employee,Savings
+202140,1887,Kolhapur,Young Adult,Unknown,Salary
+202141,1773,Kolhapur,Adult,Employee,Savings
+202142,1516,Kolhapur,Adult,Unknown,Current
+202143,1772,Nagpur,Adult,Individual,Salary
+202144,1053,Nashik,Senior,Unknown,Salary
+202145,1046,Kolhapur,Adult,Unknown,Savings
+202146,1726,Kolhapur,Senior,Unknown,Savings
+202147,1688,Mumbai,Young Adult,Individual,Savings
+202148,1520,Nagpur,Senior,Individual,Current
+202149,1098,Solapur,Senior,Business,Salary
+202150,1019,Kolhapur,Senior,Individual,Savings
+202151,1889,Mumbai,Adult,Individual,Savings
+202152,1752,Pune,Senior,Individual,Salary
+202153,1572,Solapur,Adult,Employee,Salary
+202154,1890,Kolhapur,Young Adult,Employee,Salary
+202155,1489,Kolhapur,Adult,Individual,Savings
+202156,1418,Mumbai,Young Adult,Individual,Savings
+202157,1689,Nagpur,Senior,Employee,Savings
+202158,1849,Kolhapur,Adult,Business,Savings
+202159,1061,Pune,Senior,Individual,Current
+202160,1144,Kolhapur,Senior,Employee,Savings
+202161,1215,Pune,Adult,Unknown,Savings
+202162,1002,Solapur,Senior,Unknown,Salary
+202163,1159,Solapur,Young Adult,Unknown,Savings
+202164,1738,Nashik,Adult,Unknown,Salary
+202165,1997,Nashik,Young Adult,Employee,Savings
+202166,1780,Pune,Senior,Business,Salary
+202167,1119,Nagpur,Unknown,Employee,Savings
+202168,1892,Kolhapur,Adult,Business,Salary
+202169,1088,Kolhapur,Adult,Employee,Savings
+202170,1328,Nashik,Senior,Business,Savings
+202171,1579,Pune,Adult,Employee,Salary
+202172,1909,Kolhapur,Senior,Individual,Savings
+202173,1356,Kolhapur,Adult,Business,Savings
+202174,1609,Nagpur,Adult,Individual,Salary
+202175,1266,Mumbai,Senior,Individual,Salary
+202176,1616,Nashik,Adult,Individual,Savings
+202177,1951,Nashik,Senior,Employee,Savings
+202178,1322,Mumbai,Senior,Individual,Savings
+202179,1634,Kolhapur,Adult,Unknown,Savings
+202180,1987,Nagpur,Young Adult,Employee,Salary
+202181,1540,Nagpur,Unknown,Employee,Current
+202182,1648,Nashik,Senior,Employee,Savings
+202183,1194,Nagpur,Young Adult,Business,Salary
+202184,1920,Solapur,Senior,Business,Current
+202185,1737,Mumbai,Adult,Business,Current
+202186,1331,Kolhapur,Adult,Business,Savings
+202187,1169,Solapur,Senior,Unknown,Savings
+202188,1520,Mumbai,Adult,Business,Current
+202189,1462,Pune,Senior,Business,Savings
+202190,1039,Nashik,Adult,Individual,Savings
+202191,1536,Nagpur,Senior,Business,Savings
+202192,1260,Pune,Adult,Employee,Savings
+202193,1394,Nagpur,Adult,Business,Current
+202194,1954,Solapur,Senior,Business,Current
+202195,1225,Kolhapur,Adult,Business,Savings
+202196,1983,Kolhapur,Adult,Business,Savings
+202197,1123,Kolhapur,Adult,Individual,Current
+202198,1974,Nagpur,Young Adult,Individual,Savings
+202199,1037,Pune,Senior,Individual,Current
+202200,1327,Kolhapur,Adult,Unknown,Salary
+202201,1250,Pune,Adult,Business,Savings
+202202,1900,Nagpur,Adult,Business,Salary
+202203,1175,Solapur,Adult,Business,Salary
+202204,1601,Pune,Young Adult,Business,Savings
+202205,1913,Solapur,Adult,Unknown,Savings
+202206,1453,Nagpur,Adult,Business,Salary
+202207,1036,Nagpur,Senior,Business,Savings
+202208,1315,Nashik,Senior,Business,Salary
+202209,1687,Nagpur,Adult,Individual,Current
+202210,1972,Nagpur,Young Adult,Business,Savings
+202211,1795,Mumbai,Adult,Employee,Savings
+202212,1964,Kolhapur,Adult,Individual,Savings
+202213,1972,Nashik,Adult,Business,Savings
+202214,1592,Nashik,Adult,Employee,Current
+202215,1113,Nashik,Adult,Unknown,Salary
+202216,1039,Mumbai,Adult,Individual,Salary
+202217,1300,Solapur,Young Adult,Employee,Savings
+202218,1223,Nagpur,Young Adult,Employee,Salary
+202219,1317,Kolhapur,Young Adult,Individual,Salary
+202220,1348,Pune,Adult,Employee,Salary
+202221,1114,Solapur,Adult,Individual,Savings
+202222,1697,Nagpur,Adult,Individual,Salary
+202223,1322,Mumbai,Adult,Individual,Current
+202224,1567,Nagpur,Adult,Individual,Savings
+202225,1039,Nagpur,Adult,Business,Salary
+202226,1865,Mumbai,Adult,Individual,Savings
+202227,1039,Nashik,Young Adult,Business,Savings
+202228,1858,Nashik,Adult,Business,Salary
+202229,1972,Kolhapur,Senior,Employee,Savings
+202230,1748,Kolhapur,Adult,Unknown,Salary
+202231,1288,Nashik,Adult,Business,Salary
+202232,1261,Solapur,Senior,Business,Savings
+202233,1215,Pune,Adult,Individual,Savings
+202234,1146,Nagpur,Adult,Business,Salary
+202235,1335,Pune,Senior,Business,Current
+202236,1167,Nagpur,Senior,Employee,Salary
+202237,1091,Nashik,Adult,Individual,Salary
+202238,1352,Kolhapur,Adult,Employee,Savings
+202239,1570,Solapur,Adult,Business,Savings
+202240,1570,Kolhapur,Young Adult,Employee,Salary
+202241,1815,Pune,Adult,Business,Current
+202242,1680,Kolhapur,Young Adult,Individual,Savings
+202243,1780,Nashik,Adult,Business,Salary
+202244,1362,Solapur,Senior,Individual,Salary
+202245,1556,Pune,Senior,Individual,Current
+202246,1344,Solapur,Adult,Business,Savings
+202247,1692,Nagpur,Senior,Individual,Current
+202248,1169,Kolhapur,Adult,Individual,Salary
+202249,1355,Solapur,Senior,Individual,Salary
+202250,1190,Mumbai,Adult,Employee,Salary
+202251,1666,Kolhapur,Young Adult,Unknown,Current
+202252,1421,Nagpur,Adult,Business,Salary
+202253,1699,Solapur,Adult,Employee,Salary
+202254,1006,Pune,Adult,Individual,Savings
+202255,1132,Nagpur,Senior,Employee,Savings
+202256,1746,Mumbai,Senior,Business,Salary
+202257,1556,Solapur,Adult,Employee,Savings
+202258,1825,Nashik,Adult,Individual,Savings
+202259,1760,Kolhapur,Young Adult,Individual,Savings
+202260,1030,Pune,Senior,Business,Savings
+202261,1534,Nashik,Senior,Employee,Savings
+202262,1425,Solapur,Unknown,Business,Savings
+202263,1393,Solapur,Senior,Employee,Salary
+202264,1671,Nagpur,Adult,Individual,Salary
+202265,1362,Solapur,Young Adult,Employee,Salary
+202266,1436,Pune,Adult,Employee,Savings
+202267,1669,Nashik,Senior,Individual,Salary
+202268,1550,Pune,Adult,Individual,Salary
+202269,1926,Mumbai,Young Adult,Individual,Current
+202270,1081,Mumbai,Senior,Individual,Savings
+202271,1355,Kolhapur,Young Adult,Employee,Savings
+202272,1257,Kolhapur,Adult,Unknown,Salary
+202273,1717,Mumbai,Senior,Employee,Current
+202274,1588,Solapur,Adult,Business,Salary
+202275,1988,Pune,Young Adult,Employee,Current
+202276,1523,Mumbai,Senior,Employee,Savings
+202277,1294,Kolhapur,Senior,Individual,Salary
+202278,1961,Mumbai,Unknown,Employee,Savings
+202279,1223,Solapur,Adult,Employee,Current
+202280,1524,Mumbai,Young Adult,Individual,Salary
+202281,1045,Pune,Senior,Business,Salary
+202282,1666,Nashik,Adult,Employee,Savings
+202283,1112,Solapur,Adult,Employee,Savings
+202284,1232,Kolhapur,Senior,Individual,Current
+202285,1016,Pune,Adult,Employee,Salary
+202286,1359,Mumbai,Adult,Business,Current
+202287,1222,Mumbai,Young Adult,Individual,Current
+202288,1865,Nashik,Adult,Individual,Savings
+202289,1699,Kolhapur,Adult,Employee,Salary
+202290,1447,Kolhapur,Adult,Individual,Salary
+202291,1855,Nagpur,Senior,Business,Salary
+202292,1364,Kolhapur,Senior,Business,Savings
+202293,1674,Nashik,Adult,Individual,Salary
+202294,1325,Nagpur,Young Adult,Individual,Savings
+202295,1466,Nagpur,Young Adult,Business,Current
+202296,1413,Mumbai,Adult,Individual,Salary
+202297,1454,Mumbai,Senior,Individual,Savings
+202298,1585,Kolhapur,Senior,Business,Savings
+202299,1232,Nagpur,Senior,Employee,Salary
+202300,1223,Mumbai,Adult,Employee,Current
+202301,1993,Nashik,Adult,Individual,Savings
+202302,1830,Mumbai,Adult,Business,Savings
+202303,1411,Solapur,Young Adult,Employee,Current
+202304,1571,Solapur,Senior,Unknown,Salary
+202305,1334,Mumbai,Unknown,Business,Savings
+202306,1221,Nagpur,Adult,Individual,Salary
+202307,1036,Nagpur,Senior,Employee,Savings
+202308,1988,Pune,Adult,Employee,Savings
+202309,1277,Solapur,Adult,Employee,Savings
+202310,1195,Nashik,Adult,Business,Salary
+202311,1915,Nagpur,Adult,Employee,Savings
+202312,1863,Kolhapur,Young Adult,Individual,Salary
+202313,1483,Solapur,Senior,Business,Savings
+202314,1241,Nashik,Senior,Individual,Salary
+202315,1323,Nashik,Adult,Business,Salary
+202316,1730,Nagpur,Adult,Business,Salary
+202317,1191,Nashik,Senior,Employee,Salary
+202318,1016,Nagpur,Senior,Individual,Current
+202319,1523,Mumbai,Senior,Business,Salary
+202320,1917,Solapur,Adult,Business,Savings
+202321,1400,Pune,Senior,Employee,Savings
+202322,1905,Mumbai,Adult,Individual,Current
+202323,1885,Solapur,Senior,Employee,Savings
+202324,1704,Nagpur,Young Adult,Individual,Savings
+202325,1021,Solapur,Senior,Individual,Current
+202326,1473,Nagpur,Adult,Individual,Savings
+202327,1119,Mumbai,Adult,Individual,Current
+202328,1209,Kolhapur,Adult,Employee,Savings
+202329,1305,Kolhapur,Adult,Unknown,Salary
+202330,1269,Solapur,Senior,Business,Salary
+202331,1703,Kolhapur,Senior,Individual,Salary
+202332,1686,Nagpur,Senior,Employee,Savings
+202333,1284,Nashik,Adult,Employee,Current
+202334,1715,Nagpur,Senior,Individual,Salary
+202335,1675,Nashik,Senior,Unknown,Salary
+202336,1762,Mumbai,Adult,Employee,Salary
+202337,1226,Pune,Young Adult,Unknown,Savings
+202338,1947,Nashik,Senior,Employee,Current
+202339,1380,Kolhapur,Senior,Business,Salary
+202340,1459,Nagpur,Senior,Individual,Savings
+202341,1006,Mumbai,Adult,Employee,Current
+202342,1028,Kolhapur,Adult,Individual,Salary
+202343,1906,Mumbai,Adult,Business,Salary
+202344,1032,Pune,Senior,Business,Savings
+202345,1645,Nagpur,Senior,Business,Current
+202346,1878,Solapur,Adult,Business,Salary
+202347,1078,Nagpur,Senior,Business,Current
+202348,1927,Pune,Adult,Individual,Salary
+202349,1946,Nagpur,Unknown,Employee,Salary
+202350,1458,Solapur,Adult,Business,Salary
+202351,1569,Nashik,Adult,Business,Salary
+202352,1982,Mumbai,Adult,Business,Savings
+202353,1537,Solapur,Adult,Individual,Savings
+202354,1481,Kolhapur,Young Adult,Individual,Savings
+202355,1429,Pune,Adult,Unknown,Savings
+202356,1737,Nashik,Adult,Employee,Savings
+202357,1284,Kolhapur,Senior,Individual,Savings
+202358,1515,Kolhapur,Young Adult,Business,Salary
+202359,1976,Pune,Adult,Unknown,Savings
+202360,1098,Nashik,Young Adult,Individual,Savings
+202361,1396,Kolhapur,Senior,Business,Savings
+202362,1488,Kolhapur,Young Adult,Unknown,Current
+202363,1038,Nashik,Senior,Unknown,Savings
+202364,1270,Nagpur,Senior,Unknown,Savings
+202365,1886,Kolhapur,Adult,Employee,Savings
+202366,1796,Mumbai,Adult,Employee,Salary
+202367,1156,Nashik,Adult,Individual,Salary
+202368,1074,Kolhapur,Adult,Individual,Salary
+202369,1883,Pune,Senior,Employee,Savings
+202370,1799,Solapur,Senior,Employee,Current
+202371,1129,Mumbai,Young Adult,Individual,Current
+202372,1686,Solapur,Adult,Employee,Savings
+202373,1973,Solapur,Senior,Individual,Savings
+202374,1083,Kolhapur,Senior,Business,Savings
+202375,1021,Mumbai,Young Adult,Individual,Salary
+202376,1458,Mumbai,Adult,Business,Savings
+202377,1538,Nagpur,Adult,Employee,Savings
+202378,1706,Solapur,Senior,Individual,Savings
+202379,1848,Mumbai,Adult,Unknown,Current
+202380,1381,Nagpur,Adult,Employee,Salary
+202381,1747,Nashik,Senior,Employee,Current
+202382,1439,Nagpur,Senior,Individual,Current
+202383,1603,Pune,Senior,Employee,Current
+202384,1988,Kolhapur,Adult,Individual,Savings
+202385,1020,Nashik,Adult,Employee,Savings
+202386,1302,Nashik,Senior,Employee,Salary
+202387,1975,Pune,Adult,Business,Salary
+202388,1868,Nagpur,Adult,Business,Salary
+202389,1954,Kolhapur,Adult,Individual,Savings
+202390,1083,Nagpur,Young Adult,Individual,Savings
+202391,1773,Mumbai,Adult,Employee,Savings
+202392,1658,Nagpur,Senior,Individual,Salary
+202393,1952,Nashik,Senior,Individual,Salary
+202394,1452,Kolhapur,Senior,Business,Salary
+202395,1386,Nagpur,Adult,Individual,Current
+202396,1506,Kolhapur,Adult,Business,Savings
+202397,1256,Kolhapur,Young Adult,Individual,Savings
+202398,1569,Mumbai,Senior,Unknown,Savings
+202399,1891,Mumbai,Adult,Business,Current
+202400,1933,Nashik,Senior,Business,Savings
+202401,1526,Pune,Senior,Individual,Salary
+202402,1161,Kolhapur,Adult,Business,Current
+202403,1956,Pune,Adult,Business,Savings
+202404,1162,Nashik,Unknown,Business,Savings
+202405,1831,Kolhapur,Unknown,Employee,Savings
+202406,1792,Kolhapur,Adult,Business,Salary
+202407,1791,Solapur,Adult,Individual,Savings
+202408,1523,Pune,Unknown,Business,Savings
+202409,1785,Nagpur,Young Adult,Business,Salary
+202410,1270,Mumbai,Adult,Employee,Current
+202411,1491,Nagpur,Young Adult,Individual,Current
+202412,1207,Pune,Adult,Employee,Salary
+202413,1538,Mumbai,Young Adult,Business,Salary
+202414,1583,Nagpur,Adult,Individual,Current
+202415,1059,Solapur,Adult,Individual,Savings
+202416,1429,Mumbai,Adult,Individual,Savings
+202417,1984,Kolhapur,Unknown,Business,Salary
+202418,1656,Nagpur,Senior,Individual,Current
+202419,1604,Mumbai,Senior,Business,Salary
+202420,1308,Solapur,Senior,Employee,Salary
+202421,1519,Mumbai,Young Adult,Business,Salary
+202422,1590,Mumbai,Adult,Unknown,Savings
+202423,1026,Solapur,Senior,Individual,Savings
+202424,1685,Nagpur,Adult,Employee,Savings
+202425,1561,Nashik,Young Adult,Business,Salary
+202426,1198,Nagpur,Senior,Individual,Savings
+202427,1386,Pune,Adult,Individual,Savings
+202428,1348,Solapur,Adult,Business,Savings
+202429,1959,Nagpur,Unknown,Unknown,Savings
+202430,1939,Mumbai,Senior,Employee,Savings
+202431,1692,Solapur,Adult,Individual,Savings
+202432,1535,Kolhapur,Unknown,Employee,Current
+202433,1827,Nagpur,Senior,Individual,Savings
+202434,1377,Solapur,Senior,Business,Savings
+202435,1898,Nagpur,Young Adult,Business,Salary
+202436,1915,Solapur,Adult,Business,Salary
+202437,1557,Mumbai,Senior,Individual,Savings
+202438,1526,Kolhapur,Senior,Employee,Savings
+202439,1152,Kolhapur,Senior,Individual,Salary
+202440,1733,Pune,Adult,Employee,Savings
+202441,1205,Solapur,Young Adult,Business,Savings
+202442,1454,Nagpur,Senior,Individual,Savings
+202443,1272,Kolhapur,Adult,Business,Savings
+202444,1893,Kolhapur,Adult,Business,Current
+202445,1235,Nashik,Young Adult,Unknown,Salary
+202446,1851,Nashik,Young Adult,Business,Salary
+202447,1739,Kolhapur,Senior,Business,Current
+202448,1520,Solapur,Senior,Employee,Savings
+202449,1677,Pune,Adult,Individual,Current
+202450,1943,Kolhapur,Adult,Employee,Savings
+202451,1955,Mumbai,Senior,Employee,Savings
+202452,1830,Nagpur,Adult,Business,Current
+202453,1725,Pune,Adult,Business,Salary
+202454,1500,Mumbai,Unknown,Employee,Savings
+202455,1116,Pune,Adult,Individual,Salary
+202456,1385,Mumbai,Senior,Individual,Savings
+202457,1343,Nagpur,Adult,Business,Savings
+202458,1583,Nagpur,Adult,Business,Savings
+202459,1394,Nashik,Adult,Business,Current
+202460,1063,Solapur,Unknown,Employee,Salary
+202461,1716,Mumbai,Adult,Individual,Current
+202462,1720,Nashik,Adult,Business,Savings
+202463,1071,Mumbai,Unknown,Business,Savings
+202464,1788,Nashik,Adult,Employee,Current
+202465,1273,Nagpur,Adult,Business,Savings
+202466,1989,Pune,Adult,Employee,Savings
+202467,1319,Nashik,Senior,Business,Salary
+202468,1337,Mumbai,Young Adult,Business,Salary
+202469,1365,Mumbai,Young Adult,Business,Savings
+202470,1494,Solapur,Adult,Employee,Savings
+202471,1606,Nagpur,Adult,Employee,Savings
+202472,1165,Mumbai,Senior,Business,Current
+202473,1543,Kolhapur,Senior,Business,Salary
+202474,1010,Pune,Senior,Employee,Salary
+202475,1300,Nashik,Senior,Business,Savings
+202476,1728,Solapur,Senior,Individual,Savings
+202477,1800,Pune,Adult,Unknown,Salary
+202478,1101,Nagpur,Senior,Business,Salary
+202479,1424,Solapur,Adult,Employee,Current
+202480,1391,Nashik,Adult,Employee,Savings
+202481,1778,Nashik,Senior,Individual,Current
+202482,1213,Kolhapur,Adult,Individual,Salary
+202483,1690,Nagpur,Senior,Individual,Current
+202484,1087,Solapur,Adult,Business,Salary
+202485,1552,Solapur,Senior,Business,Savings
+202486,1400,Mumbai,Young Adult,Employee,Savings
+202487,1587,Kolhapur,Senior,Employee,Savings
+202488,1888,Kolhapur,Senior,Employee,Salary
+202489,1045,Solapur,Adult,Individual,Current
+202490,1671,Solapur,Adult,Individual,Salary
+202491,1462,Pune,Young Adult,Business,Savings
+202492,1591,Pune,Young Adult,Unknown,Salary
+202493,1309,Pune,Senior,Employee,Salary
+202494,1085,Kolhapur,Senior,Business,Savings
+202495,1091,Mumbai,Adult,Unknown,Salary
+202496,1659,Nashik,Senior,Individual,Savings
+202497,1672,Pune,Senior,Business,Savings
+202498,1713,Mumbai,Adult,Business,Savings
+202499,1935,Nagpur,Senior,Business,Salary
+202500,1927,Pune,Senior,Individual,Salary
+202501,1241,Nashik,Adult,Business,Savings
+202502,1864,Nagpur,Adult,Business,Salary
+202503,1001,Nagpur,Young Adult,Individual,Current
+202504,1224,Nashik,Unknown,Employee,Salary
+202505,1800,Pune,Senior,Individual,Savings
+202506,1744,Kolhapur,Senior,Business,Current
+202507,1972,Nashik,Young Adult,Employee,Current
+202508,1925,Nashik,Adult,Business,Savings
+202509,1928,Nashik,Young Adult,Employee,Savings
+202510,1588,Nagpur,Young Adult,Individual,Current
+202511,1115,Mumbai,Senior,Individual,Savings
+202512,1665,Kolhapur,Unknown,Individual,Salary
+202513,1917,Pune,Senior,Individual,Savings
+202514,1102,Pune,Senior,Employee,Salary
+202515,1193,Mumbai,Young Adult,Individual,Savings
+202516,1165,Nashik,Adult,Employee,Savings
+202517,1870,Kolhapur,Adult,Employee,Savings
+202518,1089,Pune,Senior,Employee,Salary
+202519,1685,Solapur,Senior,Business,Salary
+202520,1121,Pune,Adult,Business,Savings
+202521,1142,Nashik,Adult,Unknown,Savings
+202522,1993,Solapur,Young Adult,Individual,Current
+202523,1105,Mumbai,Adult,Employee,Savings
+202524,1886,Kolhapur,Adult,Employee,Salary
+202525,1427,Mumbai,Young Adult,Employee,Savings
+202526,1304,Mumbai,Adult,Business,Current
+202527,1871,Kolhapur,Senior,Employee,Salary
+202528,1970,Kolhapur,Adult,Employee,Salary
+202529,1316,Pune,Young Adult,Employee,Current
+202530,1962,Pune,Adult,Unknown,Savings
+202531,1634,Kolhapur,Adult,Unknown,Savings
+202532,1901,Solapur,Adult,Employee,Current
+202533,1008,Nagpur,Adult,Individual,Current
+202534,1773,Pune,Adult,Business,Salary
+202535,1072,Nagpur,Adult,Unknown,Salary
+202536,1358,Solapur,Senior,Individual,Current
+202537,1222,Kolhapur,Adult,Employee,Savings
+202538,1415,Solapur,Senior,Unknown,Savings
+202539,1552,Pune,Adult,Business,Savings
+202540,1369,Mumbai,Young Adult,Individual,Savings
+202541,1715,Kolhapur,Adult,Employee,Current
+202542,1263,Nashik,Adult,Unknown,Savings
+202543,1839,Nagpur,Senior,Business,Savings
+202544,1689,Solapur,Senior,Business,Savings
+202545,1859,Kolhapur,Senior,Business,Savings
+202546,1317,Solapur,Senior,Individual,Savings
+202547,1083,Kolhapur,Senior,Business,Current
+202548,1317,Pune,Adult,Individual,Savings
+202549,1110,Pune,Adult,Unknown,Current
+202550,1250,Pune,Unknown,Employee,Current
+202551,1382,Solapur,Senior,Business,Salary
+202552,1006,Nashik,Young Adult,Individual,Savings
+202553,1458,Pune,Senior,Employee,Savings
+202554,1083,Kolhapur,Adult,Individual,Savings
+202555,1207,Pune,Adult,Business,Savings
+202556,1899,Mumbai,Adult,Business,Salary
+202557,1389,Pune,Senior,Business,Salary
+202558,1313,Solapur,Senior,Employee,Current
+202559,1021,Nashik,Adult,Individual,Savings
+202560,1409,Mumbai,Young Adult,Unknown,Current
+202561,1894,Solapur,Adult,Business,Savings
+202562,1514,Solapur,Senior,Business,Current
+202563,1126,Solapur,Adult,Business,Current
+202564,1808,Kolhapur,Adult,Business,Savings
+202565,1699,Solapur,Adult,Employee,Savings
+202566,1873,Kolhapur,Adult,Business,Salary
+202567,1013,Solapur,Adult,Business,Savings
+202568,1970,Nagpur,Senior,Business,Savings
+202569,1977,Mumbai,Young Adult,Business,Savings
+202570,1011,Nagpur,Senior,Individual,Savings
+202571,1086,Solapur,Adult,Employee,Salary
+202572,1523,Mumbai,Adult,Individual,Current
+202573,1908,Mumbai,Adult,Individual,Salary
+202574,1536,Nashik,Senior,Business,Savings
+202575,1300,Nagpur,Senior,Business,Salary
+202576,1242,Nashik,Senior,Individual,Salary
+202577,1121,Mumbai,Adult,Employee,Savings
+202578,1146,Kolhapur,Adult,Unknown,Savings
+202579,1566,Mumbai,Senior,Business,Salary
+202580,1749,Nashik,Senior,Employee,Savings
+202581,1355,Nagpur,Adult,Business,Savings
+202582,1684,Solapur,Senior,Employee,Savings
+202583,1903,Solapur,Adult,Individual,Savings
+202584,1732,Nagpur,Adult,Individual,Savings
+202585,1630,Solapur,Adult,Individual,Savings
+202586,1308,Solapur,Adult,Employee,Current
+202587,1694,Nashik,Adult,Unknown,Savings
+202588,1287,Nagpur,Adult,Business,Salary
+202589,1306,Pune,Adult,Employee,Savings
+202590,1811,Kolhapur,Adult,Employee,Salary
+202591,1593,Kolhapur,Adult,Individual,Salary
+202592,1965,Solapur,Senior,Business,Salary
+202593,1913,Kolhapur,Adult,Business,Salary
+202594,1722,Nagpur,Young Adult,Individual,Salary
+202595,1661,Nagpur,Adult,Individual,Salary
+202596,1548,Mumbai,Senior,Business,Savings
+202597,1351,Mumbai,Adult,Employee,Savings
+202598,1311,Kolhapur,Adult,Employee,Salary
+202599,1872,Pune,Young Adult,Business,Savings
+202600,1058,Mumbai,Senior,Employee,Salary
+202601,1642,Mumbai,Adult,Individual,Salary
+202602,1923,Nagpur,Adult,Employee,Savings
+202603,1713,Pune,Young Adult,Employee,Salary
+202604,1754,Solapur,Adult,Unknown,Savings
+202605,1034,Kolhapur,Senior,Unknown,Savings
+202606,1444,Mumbai,Senior,Unknown,Current
+202607,1092,Pune,Senior,Business,Savings
+202608,1949,Pune,Senior,Employee,Current
+202609,1958,Kolhapur,Young Adult,Business,Current
+202610,1206,Pune,Adult,Unknown,Savings
+202611,1352,Pune,Senior,Individual,Salary
+202612,1902,Pune,Adult,Employee,Current
+202613,1331,Mumbai,Senior,Business,Savings
+202614,1816,Kolhapur,Adult,Business,Savings
+202615,1861,Pune,Adult,Individual,Salary
+202616,1724,Pune,Senior,Employee,Salary
+202617,1158,Mumbai,Senior,Business,Savings
+202618,1953,Kolhapur,Senior,Employee,Savings
+202619,1956,Nagpur,Young Adult,Business,Salary
+202620,1023,Mumbai,Senior,Employee,Current
+202621,1403,Kolhapur,Adult,Unknown,Savings
+202622,1804,Pune,Adult,Employee,Current
+202623,1515,Kolhapur,Unknown,Business,Savings
+202624,1731,Kolhapur,Senior,Individual,Salary
+202625,1363,Solapur,Young Adult,Individual,Savings
+202626,1381,Kolhapur,Senior,Business,Savings
+202627,1531,Nagpur,Young Adult,Employee,Savings
+202628,1955,Kolhapur,Young Adult,Employee,Salary
+202629,1151,Nagpur,Adult,Individual,Salary
+202630,1561,Pune,Unknown,Business,Salary
+202631,1688,Nagpur,Adult,Business,Current
+202632,1946,Pune,Senior,Individual,Savings
+202633,1607,Pune,Adult,Business,Salary
+202634,1616,Nagpur,Senior,Business,Savings
+202635,1419,Mumbai,Adult,Business,Salary
+202636,1249,Nashik,Senior,Employee,Savings
+202637,1116,Kolhapur,Adult,Business,Savings
+202638,1865,Solapur,Senior,Individual,Current
+202639,1511,Nashik,Unknown,Employee,Salary
+202640,1739,Kolhapur,Senior,Individual,Salary
+202641,1577,Kolhapur,Adult,Employee,Current
+202642,1334,Pune,Senior,Individual,Savings
+202643,1417,Kolhapur,Young Adult,Unknown,Salary
+202644,1931,Solapur,Senior,Employee,Savings
+202645,1773,Kolhapur,Senior,Individual,Salary
+202646,1294,Nagpur,Young Adult,Employee,Current
+202647,1937,Nashik,Adult,Individual,Savings
+202648,1754,Nagpur,Adult,Employee,Savings
+202649,1370,Solapur,Adult,Employee,Savings
+202650,1185,Kolhapur,Senior,Individual,Savings
+202651,1245,Solapur,Adult,Individual,Savings
+202652,1636,Pune,Adult,Employee,Savings
+202653,1267,Nagpur,Adult,Individual,Savings
+202654,1642,Nagpur,Adult,Business,Current
+202655,1236,Mumbai,Adult,Business,Salary
+202656,1529,Kolhapur,Senior,Business,Savings
+202657,1551,Pune,Young Adult,Employee,Savings
+202658,1020,Nagpur,Senior,Business,Savings
+202659,1910,Nagpur,Adult,Unknown,Current
+202660,1736,Pune,Adult,Individual,Salary
+202661,1866,Solapur,Senior,Individual,Current
+202662,1793,Solapur,Adult,Individual,Salary
+202663,1519,Kolhapur,Adult,Individual,Current
+202664,1099,Mumbai,Young Adult,Individual,Current
+202665,1751,Nagpur,Adult,Business,Savings
+202666,1477,Mumbai,Adult,Employee,Salary
+202667,1598,Solapur,Young Adult,Unknown,Salary
+202668,1297,Solapur,Adult,Individual,Current
+202669,1939,Nashik,Young Adult,Employee,Salary
+202670,1525,Kolhapur,Adult,Unknown,Savings
+202671,1333,Nashik,Young Adult,Business,Salary
+202672,1001,Nashik,Young Adult,Employee,Savings
+202673,1374,Nashik,Adult,Employee,Savings
+202674,1292,Kolhapur,Unknown,Business,Savings
+202675,1836,Kolhapur,Young Adult,Employee,Salary
+202676,1933,Pune,Senior,Individual,Salary
+202677,1552,Mumbai,Adult,Business,Salary
+202678,1317,Mumbai,Senior,Employee,Salary
+202679,1501,Pune,Young Adult,Individual,Savings
+202680,1827,Pune,Senior,Employee,Salary
+202681,1380,Solapur,Senior,Employee,Salary
+202682,1622,Nashik,Young Adult,Business,Current
+202683,1013,Pune,Senior,Individual,Savings
+202684,1503,Nagpur,Adult,Business,Current
+202685,1230,Mumbai,Adult,Employee,Salary
+202686,1984,Pune,Senior,Employee,Salary
+202687,1083,Nagpur,Senior,Individual,Salary
+202688,1129,Nagpur,Adult,Business,Salary
+202689,1742,Nagpur,Adult,Unknown,Salary
+202690,1837,Solapur,Senior,Employee,Salary
+202691,1144,Solapur,Senior,Individual,Salary
+202692,1890,Nagpur,Senior,Employee,Savings
+202693,1856,Solapur,Senior,Business,Current
+202694,1027,Nashik,Adult,Individual,Current
+202695,1065,Nagpur,Senior,Business,Salary
+202696,1162,Nashik,Young Adult,Business,Savings
+202697,1228,Nashik,Adult,Employee,Savings
+202698,1260,Nagpur,Adult,Employee,Savings
+202699,1448,Mumbai,Adult,Individual,Current
+202700,1423,Nagpur,Young Adult,Business,Current
+202701,1459,Nagpur,Senior,Business,Savings
+202702,1951,Solapur,Adult,Employee,Savings
+202703,1675,Nagpur,Adult,Employee,Savings
+202704,1300,Mumbai,Senior,Individual,Savings
+202705,1918,Solapur,Adult,Business,Savings
+202706,1302,Kolhapur,Young Adult,Employee,Savings
+202707,1286,Kolhapur,Adult,Employee,Savings
+202708,1394,Nashik,Senior,Employee,Savings
+202709,1009,Nashik,Young Adult,Employee,Savings
+202710,1706,Mumbai,Adult,Individual,Salary
+202711,1629,Pune,Adult,Individual,Savings
+202712,1269,Kolhapur,Adult,Individual,Savings
+202713,1591,Nashik,Young Adult,Business,Savings
+202714,1969,Kolhapur,Adult,Individual,Savings
+202715,1604,Mumbai,Adult,Individual,Savings
+202716,1777,Mumbai,Unknown,Business,Savings
+202717,1843,Pune,Adult,Individual,Current
+202718,1861,Pune,Adult,Business,Current
+202719,1360,Solapur,Adult,Employee,Current
+202720,1256,Mumbai,Adult,Individual,Salary
+202721,1132,Nashik,Senior,Employee,Savings
+202722,1275,Kolhapur,Adult,Individual,Salary
+202723,1775,Nagpur,Adult,Business,Savings
+202724,1682,Pune,Senior,Employee,Current
+202725,1971,Nagpur,Adult,Individual,Savings
+202726,1512,Nashik,Adult,Individual,Salary
+202727,1312,Pune,Adult,Employee,Current
+202728,1575,Nagpur,Adult,Individual,Savings
+202729,1885,Nashik,Young Adult,Individual,Current
+202730,1979,Kolhapur,Young Adult,Employee,Savings
+202731,1283,Nashik,Adult,Business,Salary
+202732,1120,Solapur,Senior,Employee,Current
+202733,1106,Pune,Adult,Business,Savings
+202734,1932,Mumbai,Adult,Business,Savings
+202735,1686,Kolhapur,Young Adult,Individual,Savings
+202736,1996,Nagpur,Adult,Business,Current
+202737,1203,Pune,Young Adult,Business,Savings
+202738,1164,Mumbai,Senior,Employee,Current
+202739,1304,Nashik,Senior,Unknown,Salary
+202740,1496,Mumbai,Unknown,Individual,Savings
+202741,1631,Pune,Senior,Individual,Salary
+202742,1555,Pune,Adult,Business,Current
+202743,1823,Solapur,Adult,Employee,Savings
+202744,1155,Solapur,Adult,Employee,Savings
+202745,1366,Mumbai,Adult,Individual,Salary
+202746,1718,Nashik,Senior,Business,Savings
+202747,1901,Mumbai,Young Adult,Business,Savings
+202748,1619,Pune,Senior,Employee,Savings
+202749,1250,Pune,Adult,Unknown,Salary
+202750,1956,Nagpur,Senior,Employee,Current
+202751,1915,Solapur,Senior,Individual,Current
+202752,1881,Nagpur,Senior,Business,Savings
+202753,1333,Kolhapur,Senior,Business,Salary
+202754,1641,Pune,Adult,Individual,Salary
+202755,1968,Nagpur,Senior,Individual,Savings
+202756,1510,Mumbai,Unknown,Business,Savings
+202757,1292,Solapur,Senior,Unknown,Salary
+202758,1019,Solapur,Senior,Business,Salary
+202759,1281,Nashik,Senior,Individual,Current
+202760,1796,Mumbai,Senior,Unknown,Salary
+202761,1000,Nashik,Adult,Unknown,Current
+202762,1118,Nagpur,Senior,Employee,Savings
+202763,1034,Kolhapur,Adult,Business,Salary
+202764,1197,Mumbai,Young Adult,Business,Current
+202765,1484,Mumbai,Adult,Unknown,Salary
+202766,1756,Mumbai,Adult,Business,Savings
+202767,1058,Nashik,Adult,Business,Current
+202768,1836,Nagpur,Young Adult,Business,Salary
+202769,1160,Mumbai,Adult,Employee,Savings
+202770,1690,Mumbai,Young Adult,Business,Savings
+202771,1205,Solapur,Adult,Business,Salary
+202772,1011,Kolhapur,Senior,Unknown,Savings
+202773,1489,Solapur,Unknown,Employee,Current
+202774,1275,Solapur,Senior,Employee,Salary
+202775,1692,Kolhapur,Unknown,Employee,Savings
+202776,1241,Nagpur,Senior,Business,Salary
+202777,1215,Solapur,Adult,Business,Salary
+202778,1250,Nagpur,Senior,Individual,Savings
+202779,1810,Solapur,Senior,Employee,Savings
+202780,1125,Pune,Adult,Individual,Salary
+202781,1993,Kolhapur,Young Adult,Individual,Savings
+202782,1216,Solapur,Senior,Business,Savings
+202783,1305,Pune,Young Adult,Individual,Savings
+202784,1796,Nashik,Senior,Employee,Savings
+202785,1184,Pune,Adult,Individual,Savings
+202786,1038,Mumbai,Adult,Individual,Salary
+202787,1222,Solapur,Adult,Business,Salary
+202788,1183,Pune,Young Adult,Employee,Savings
+202789,1494,Nagpur,Adult,Unknown,Savings
+202790,1426,Nashik,Senior,Employee,Current
+202791,1177,Solapur,Senior,Individual,Savings
+202792,1918,Mumbai,Senior,Employee,Salary
+202793,1427,Pune,Adult,Business,Salary
+202794,1293,Nashik,Senior,Employee,Salary
+202795,1851,Solapur,Adult,Unknown,Savings
+202796,1150,Nashik,Adult,Business,Savings
+202797,1383,Mumbai,Adult,Employee,Savings
+202798,1637,Pune,Adult,Business,Savings
+202799,1812,Nashik,Adult,Unknown,Savings
+202800,1307,Nashik,Young Adult,Employee,Salary
+202801,1335,Kolhapur,Senior,Individual,Salary
+202802,1945,Nashik,Senior,Business,Salary
+202803,1745,Kolhapur,Adult,Employee,Salary
+202804,1891,Pune,Young Adult,Unknown,Savings
+202805,1374,Solapur,Adult,Employee,Current
+202806,1007,Solapur,Adult,Individual,Savings
+202807,1340,Pune,Senior,Unknown,Savings
+202808,1128,Pune,Adult,Business,Current
+202809,1775,Nagpur,Senior,Individual,Salary
+202810,1668,Pune,Senior,Unknown,Current
+202811,1351,Nashik,Adult,Employee,Savings
+202812,1357,Solapur,Unknown,Employee,Savings
+202813,1516,Mumbai,Adult,Unknown,Savings
+202814,1494,Solapur,Adult,Employee,Savings
+202815,1085,Kolhapur,Adult,Individual,Savings
+202816,1174,Solapur,Young Adult,Employee,Current
+202817,1801,Nagpur,Adult,Business,Salary
+202818,1192,Pune,Adult,Individual,Savings
+202819,1310,Pune,Senior,Business,Current
+202820,1118,Solapur,Senior,Business,Savings
+202821,1217,Mumbai,Senior,Employee,Salary
+202822,1426,Mumbai,Young Adult,Business,Savings
+202823,1969,Nagpur,Senior,Unknown,Salary
+202824,1413,Kolhapur,Senior,Employee,Salary
+202825,1113,Solapur,Senior,Employee,Salary
+202826,1977,Pune,Senior,Individual,Savings
+202827,1144,Solapur,Senior,Business,Current
+202828,1537,Nagpur,Adult,Business,Savings
+202829,1647,Nashik,Senior,Employee,Savings
+202830,1302,Nashik,Adult,Employee,Savings
+202831,1743,Nagpur,Unknown,Employee,Salary
+202832,1880,Pune,Adult,Employee,Salary
+202833,1587,Nagpur,Young Adult,Individual,Savings
+202834,1986,Pune,Adult,Business,Current
+202835,1839,Mumbai,Senior,Individual,Salary
+202836,1344,Nagpur,Adult,Business,Savings
+202837,1813,Pune,Adult,Employee,Savings
+202838,1963,Nagpur,Senior,Employee,Savings
+202839,1800,Nagpur,Senior,Individual,Salary
+202840,1000,Pune,Adult,Business,Savings
+202841,1146,Pune,Adult,Individual,Salary
+202842,1286,Kolhapur,Senior,Individual,Savings
+202843,1975,Nagpur,Senior,Employee,Savings
+202844,1653,Nashik,Adult,Business,Savings
+202845,1052,Nagpur,Senior,Individual,Savings
+202846,1303,Nagpur,Adult,Individual,Savings
+202847,1068,Pune,Senior,Business,Savings
+202848,1360,Nagpur,Senior,Business,Salary
+202849,1601,Solapur,Adult,Individual,Savings
+202850,1957,Nagpur,Young Adult,Business,Salary
+202851,1219,Solapur,Senior,Employee,Salary
+202852,1961,Nashik,Senior,Business,Salary
+202853,1703,Pune,Adult,Business,Salary
+202854,1965,Nagpur,Senior,Individual,Current
+202855,1574,Solapur,Senior,Business,Savings
+202856,1584,Solapur,Adult,Employee,Salary
+202857,1160,Solapur,Senior,Employee,Salary
+202858,1680,Mumbai,Adult,Business,Salary
+202859,1088,Kolhapur,Senior,Unknown,Current
+202860,1687,Nashik,Young Adult,Individual,Current
+202861,1780,Nagpur,Young Adult,Individual,Savings
+202862,1584,Mumbai,Adult,Individual,Salary
+202863,1756,Nagpur,Senior,Unknown,Savings
+202864,1588,Nagpur,Senior,Business,Savings
+202865,1158,Pune,Senior,Business,Current
+202866,1488,Pune,Senior,Individual,Savings
+202867,1970,Pune,Adult,Business,Savings
+202868,1323,Mumbai,Unknown,Business,Salary
+202869,1609,Nagpur,Adult,Business,Salary
+202870,1380,Kolhapur,Senior,Employee,Current
+202871,1101,Nashik,Adult,Individual,Current
+202872,1493,Pune,Senior,Employee,Salary
+202873,1643,Pune,Senior,Business,Savings
+202874,1613,Nagpur,Senior,Individual,Salary
+202875,1018,Nagpur,Adult,Business,Savings
+202876,1453,Mumbai,Adult,Individual,Savings
+202877,1481,Mumbai,Adult,Business,Current
+202878,1593,Pune,Senior,Employee,Salary
+202879,1396,Nagpur,Adult,Individual,Savings
+202880,1278,Kolhapur,Senior,Employee,Savings
+202881,1850,Nashik,Adult,Employee,Current
+202882,1364,Nagpur,Adult,Individual,Current
+202883,1330,Nagpur,Senior,Business,Current
+202884,1640,Solapur,Adult,Individual,Savings
+202885,1343,Mumbai,Unknown,Employee,Current
+202886,1821,Nashik,Senior,Individual,Savings
+202887,1454,Pune,Adult,Individual,Savings
+202888,1600,Nagpur,Young Adult,Individual,Current
+202889,1724,Pune,Adult,Individual,Current
+202890,1654,Nagpur,Adult,Business,Savings
+202891,1064,Pune,Senior,Individual,Savings
+202892,1075,Nashik,Adult,Business,Current
+202893,1710,Mumbai,Adult,Individual,Savings
+202894,1142,Nashik,Adult,Individual,Savings
+202895,1916,Solapur,Adult,Employee,Savings
+202896,1914,Kolhapur,Adult,Unknown,Savings
+202897,1827,Mumbai,Senior,Business,Savings
+202898,1604,Nashik,Senior,Business,Salary
+202899,1472,Solapur,Senior,Individual,Salary
+202900,1416,Kolhapur,Senior,Business,Current
+202901,1304,Solapur,Adult,Individual,Current
+202902,1735,Nagpur,Senior,Individual,Salary
+202903,1496,Nagpur,Adult,Business,Salary
+202904,1290,Pune,Adult,Employee,Current
+202905,1939,Mumbai,Adult,Unknown,Savings
+202906,1101,Nagpur,Young Adult,Individual,Current
+202907,1985,Solapur,Senior,Unknown,Savings
+202908,1266,Mumbai,Adult,Business,Current
+202909,1866,Nagpur,Senior,Employee,Current
+202910,1967,Pune,Adult,Individual,Salary
+202911,1621,Nashik,Adult,Individual,Current
+202912,1973,Pune,Senior,Unknown,Savings
+202913,1841,Kolhapur,Adult,Employee,Savings
+202914,1961,Nagpur,Adult,Business,Savings
+202915,1941,Kolhapur,Young Adult,Unknown,Savings
+202916,1776,Kolhapur,Senior,Individual,Savings
+202917,1002,Solapur,Senior,Employee,Savings
+202918,1084,Mumbai,Adult,Business,Savings
+202919,1793,Solapur,Senior,Individual,Salary
+202920,1327,Nagpur,Senior,Individual,Savings
+202921,1815,Kolhapur,Senior,Employee,Savings
+202922,1449,Nashik,Senior,Employee,Savings
+202923,1453,Kolhapur,Adult,Business,Current
+202924,1923,Nashik,Senior,Individual,Savings
+202925,1628,Solapur,Adult,Unknown,Current
+202926,1220,Solapur,Adult,Individual,Savings
+202927,1153,Mumbai,Unknown,Business,Current
+202928,1664,Kolhapur,Senior,Employee,Salary
+202929,1011,Pune,Adult,Individual,Savings
+202930,1132,Solapur,Adult,Individual,Savings
+202931,1993,Solapur,Senior,Business,Savings
+202932,1303,Mumbai,Young Adult,Unknown,Salary
+202933,1292,Nashik,Young Adult,Individual,Savings
+202934,1974,Mumbai,Young Adult,Employee,Current
+202935,1299,Kolhapur,Adult,Employee,Salary
+202936,1739,Nagpur,Senior,Individual,Current
+202937,1782,Nagpur,Young Adult,Business,Savings
+202938,1042,Nashik,Senior,Business,Savings
+202939,1943,Solapur,Adult,Employee,Salary
+202940,1342,Nashik,Senior,Unknown,Salary
+202941,1325,Solapur,Unknown,Individual,Salary
+202942,1813,Solapur,Senior,Business,Salary
+202943,1497,Nagpur,Senior,Employee,Salary
+202944,1363,Nashik,Senior,Employee,Current
+202945,1890,Mumbai,Adult,Employee,Salary
+202946,1426,Solapur,Senior,Individual,Savings
+202947,1020,Pune,Senior,Business,Current
+202948,1406,Pune,Adult,Business,Savings
+202949,1618,Mumbai,Adult,Individual,Savings
+202950,1335,Pune,Senior,Business,Salary
+202951,1814,Kolhapur,Senior,Employee,Savings
+202952,1116,Solapur,Adult,Business,Savings
+202953,1123,Mumbai,Adult,Individual,Savings
+202954,1398,Nashik,Senior,Individual,Salary
+202955,1792,Solapur,Adult,Employee,Current
+202956,1803,Mumbai,Senior,Business,Current
+202957,1714,Nagpur,Senior,Business,Savings
+202958,1050,Nashik,Senior,Employee,Savings
+202959,1782,Nagpur,Adult,Individual,Savings
+202960,1323,Solapur,Senior,Employee,Savings
+202961,1788,Nashik,Senior,Business,Salary
+202962,1140,Pune,Senior,Business,Savings
+202963,1469,Mumbai,Adult,Individual,Savings
+202964,1786,Solapur,Adult,Individual,Savings
+202965,1801,Kolhapur,Unknown,Business,Savings
+202966,1333,Nashik,Young Adult,Individual,Savings
+202967,1892,Nashik,Adult,Individual,Current
+202968,1963,Solapur,Adult,Individual,Current
+202969,1372,Solapur,Senior,Employee,Salary
+202970,1563,Nagpur,Adult,Employee,Current
+202971,1493,Pune,Adult,Business,Savings
+202972,1538,Nagpur,Young Adult,Individual,Current
+202973,1668,Nagpur,Senior,Business,Current
+202974,1750,Pune,Adult,Individual,Savings
+202975,1155,Kolhapur,Adult,Business,Current
+202976,1290,Nagpur,Adult,Employee,Salary
+202977,1647,Nagpur,Senior,Employee,Savings
+202978,1143,Nashik,Adult,Individual,Current
+202979,1105,Pune,Adult,Individual,Salary
+202980,1419,Mumbai,Adult,Employee,Current
+202981,1669,Kolhapur,Unknown,Business,Salary
+202982,1657,Kolhapur,Senior,Individual,Savings
+202983,1001,Pune,Unknown,Unknown,Savings
+202984,1944,Solapur,Senior,Unknown,Current
+202985,1588,Solapur,Young Adult,Employee,Salary
+202986,1643,Nashik,Senior,Unknown,Salary
+202987,1089,Nashik,Adult,Individual,Savings
+202988,1344,Pune,Adult,Individual,Savings
+202989,1349,Nashik,Adult,Individual,Savings
+202990,1458,Kolhapur,Adult,Employee,Savings
+202991,1262,Kolhapur,Senior,Individual,Savings
+202992,1350,Mumbai,Adult,Unknown,Savings
+202993,1107,Solapur,Senior,Individual,Savings
+202994,1585,Pune,Young Adult,Employee,Savings
+202995,1038,Nagpur,Young Adult,Business,Savings
+202996,1908,Solapur,Senior,Individual,Salary
+202997,1158,Nagpur,Senior,Individual,Salary
+202998,1582,Mumbai,Senior,Business,Savings
+202999,1958,Mumbai,Adult,Individual,Salary
+203000,1311,Nashik,Adult,Individual,Current
+-1,0,Bank Charges / N/A,N/A,N/A,N/A
