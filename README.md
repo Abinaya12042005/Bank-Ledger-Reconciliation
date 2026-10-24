@@ -29,10 +29,10 @@ Bank statements and ledgers rarely agree. Finance and MIS teams have to find whi
 
 ## Dashboard
 Page 1: Reconciliation Summary
-![Page 1](screenshots/page1_reconciliation_summary.png)
+![Page 1](page1_reconciliation_summary.png)
 
 Page 2: Exception Details
-![Page 2](screenshots/page2_exception_details.png)
+![Page 2](page2_exception_details.png)
 
 ## Tech stack
 Python (pandas, numpy), Excel (xlsxwriter), Power BI (DAX), Google Colab
